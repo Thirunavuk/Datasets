@@ -1,0 +1,1461 @@
+var,date,value,name,Description,Source,id,var0
+A229RC0,01-01-1991,17474,income,Per capita disposable income,U.S. Bureau of Economic Analysis,1,100
+A229RC0,01-02-1991,17490,income,Per capita disposable income,U.S. Bureau of Economic Analysis,2,100.0915646
+A229RC0,01-03-1991,17503,income,Per capita disposable income,U.S. Bureau of Economic Analysis,3,100.1659609
+A229RC0,01-04-1991,17585,income,Per capita disposable income,U.S. Bureau of Economic Analysis,4,100.6352295
+A229RC0,01-05-1991,17641,income,Per capita disposable income,U.S. Bureau of Economic Analysis,5,100.9557056
+A229RC0,01-06-1991,17742,income,Per capita disposable income,U.S. Bureau of Economic Analysis,6,101.5337072
+A229RC0,01-07-1991,17715,income,Per capita disposable income,U.S. Bureau of Economic Analysis,7,101.3791919
+A229RC0,01-08-1991,17776,income,Per capita disposable income,U.S. Bureau of Economic Analysis,8,101.728282
+A229RC0,01-09-1991,17864,income,Per capita disposable income,U.S. Bureau of Economic Analysis,9,102.2318874
+A229RC0,01-10-1991,17904,income,Per capita disposable income,U.S. Bureau of Economic Analysis,10,102.4607989
+A229RC0,01-11-1991,17954,income,Per capita disposable income,U.S. Bureau of Economic Analysis,11,102.7469383
+A229RC0,01-12-1991,18146,income,Per capita disposable income,U.S. Bureau of Economic Analysis,12,103.8457136
+A229RC0,01-01-1992,18334,income,Per capita disposable income,U.S. Bureau of Economic Analysis,13,104.9215978
+A229RC0,01-02-1992,18447,income,Per capita disposable income,U.S. Bureau of Economic Analysis,14,105.5682729
+A229RC0,01-03-1992,18492,income,Per capita disposable income,U.S. Bureau of Economic Analysis,15,105.8257983
+A229RC0,01-04-1992,18576,income,Per capita disposable income,U.S. Bureau of Economic Analysis,16,106.3065125
+A229RC0,01-05-1992,18668,income,Per capita disposable income,U.S. Bureau of Economic Analysis,17,106.833009
+A229RC0,01-06-1992,18759,income,Per capita disposable income,U.S. Bureau of Economic Analysis,18,107.3537828
+A229RC0,01-07-1992,18785,income,Per capita disposable income,U.S. Bureau of Economic Analysis,19,107.5025753
+A229RC0,01-08-1992,18854,income,Per capita disposable income,U.S. Bureau of Economic Analysis,20,107.8974476
+A229RC0,01-09-1992,18775,income,Per capita disposable income,U.S. Bureau of Economic Analysis,21,107.4453474
+A229RC0,01-10-1992,18699,income,Per capita disposable income,U.S. Bureau of Economic Analysis,22,107.0104155
+A229RC0,01-11-1992,18744,income,Per capita disposable income,U.S. Bureau of Economic Analysis,23,107.2679409
+A229RC0,01-12-1992,19426,income,Per capita disposable income,U.S. Bureau of Economic Analysis,24,111.1708825
+A229RC0,01-01-1993,19030,income,Per capita disposable income,U.S. Bureau of Economic Analysis,25,108.9046583
+A229RC0,01-02-1993,19131,income,Per capita disposable income,U.S. Bureau of Economic Analysis,26,109.48266
+A229RC0,01-03-1993,19093,income,Per capita disposable income,U.S. Bureau of Economic Analysis,27,109.265194
+A229RC0,01-04-1993,19223,income,Per capita disposable income,U.S. Bureau of Economic Analysis,28,110.0091565
+A229RC0,01-05-1993,19234,income,Per capita disposable income,U.S. Bureau of Economic Analysis,29,110.0721071
+A229RC0,01-06-1993,19184,income,Per capita disposable income,U.S. Bureau of Economic Analysis,30,109.7859677
+A229RC0,01-07-1993,19241,income,Per capita disposable income,U.S. Bureau of Economic Analysis,31,110.1121666
+A229RC0,01-08-1993,19279,income,Per capita disposable income,U.S. Bureau of Economic Analysis,32,110.3296326
+A229RC0,01-09-1993,19225,income,Per capita disposable income,U.S. Bureau of Economic Analysis,33,110.020602
+A229RC0,01-10-1993,19171,income,Per capita disposable income,U.S. Bureau of Economic Analysis,34,109.7115715
+A229RC0,01-11-1993,19241,income,Per capita disposable income,U.S. Bureau of Economic Analysis,35,110.1121666
+A229RC0,01-12-1993,19883,income,Per capita disposable income,U.S. Bureau of Economic Analysis,36,113.7861966
+A229RC0,01-01-1994,19500,income,Per capita disposable income,U.S. Bureau of Economic Analysis,37,111.5943688
+A229RC0,01-02-1994,19567,income,Per capita disposable income,U.S. Bureau of Economic Analysis,38,111.9777956
+A229RC0,01-03-1994,19666,income,Per capita disposable income,U.S. Bureau of Economic Analysis,39,112.5443516
+A229RC0,01-04-1994,19671,income,Per capita disposable income,U.S. Bureau of Economic Analysis,40,112.5729655
+A229RC0,01-05-1994,19907,income,Per capita disposable income,U.S. Bureau of Economic Analysis,41,113.9235436
+A229RC0,01-06-1994,19903,income,Per capita disposable income,U.S. Bureau of Economic Analysis,42,113.9006524
+A229RC0,01-07-1994,19960,income,Per capita disposable income,U.S. Bureau of Economic Analysis,43,114.2268513
+A229RC0,01-08-1994,20008,income,Per capita disposable income,U.S. Bureau of Economic Analysis,44,114.5015452
+A229RC0,01-09-1994,20095,income,Per capita disposable income,U.S. Bureau of Economic Analysis,45,114.9994277
+A229RC0,01-10-1994,20300,income,Per capita disposable income,U.S. Bureau of Economic Analysis,46,116.1725993
+A229RC0,01-11-1994,20319,income,Per capita disposable income,U.S. Bureau of Economic Analysis,47,116.2813323
+A229RC0,01-12-1994,20406,income,Per capita disposable income,U.S. Bureau of Economic Analysis,48,116.7792148
+A229RC0,01-01-1995,20495,income,Per capita disposable income,U.S. Bureau of Economic Analysis,49,117.288543
+A229RC0,01-02-1995,20555,income,Per capita disposable income,U.S. Bureau of Economic Analysis,50,117.6319103
+A229RC0,01-03-1995,20632,income,Per capita disposable income,U.S. Bureau of Economic Analysis,51,118.072565
+A229RC0,01-04-1995,20514,income,Per capita disposable income,U.S. Bureau of Economic Analysis,52,117.397276
+A229RC0,01-05-1995,20733,income,Per capita disposable income,U.S. Bureau of Economic Analysis,53,118.6505666
+A229RC0,01-06-1995,20794,income,Per capita disposable income,U.S. Bureau of Economic Analysis,54,118.9996566
+A229RC0,01-07-1995,20844,income,Per capita disposable income,U.S. Bureau of Economic Analysis,55,119.285796
+A229RC0,01-08-1995,20880,income,Per capita disposable income,U.S. Bureau of Economic Analysis,56,119.4918164
+A229RC0,01-09-1995,20939,income,Per capita disposable income,U.S. Bureau of Economic Analysis,57,119.8294609
+A229RC0,01-10-1995,20995,income,Per capita disposable income,U.S. Bureau of Economic Analysis,58,120.149937
+A229RC0,01-11-1995,21033,income,Per capita disposable income,U.S. Bureau of Economic Analysis,59,120.367403
+A229RC0,01-12-1995,21085,income,Per capita disposable income,U.S. Bureau of Economic Analysis,60,120.664988
+A229RC0,01-01-1996,21144,income,Per capita disposable income,U.S. Bureau of Economic Analysis,61,121.0026325
+A229RC0,01-02-1996,21323,income,Per capita disposable income,U.S. Bureau of Economic Analysis,62,122.0270116
+A229RC0,01-03-1996,21437,income,Per capita disposable income,U.S. Bureau of Economic Analysis,63,122.6794094
+A229RC0,01-04-1996,21352,income,Per capita disposable income,U.S. Bureau of Economic Analysis,64,122.1929724
+A229RC0,01-05-1996,21639,income,Per capita disposable income,U.S. Bureau of Economic Analysis,65,123.8354126
+A229RC0,01-06-1996,21747,income,Per capita disposable income,U.S. Bureau of Economic Analysis,66,124.4534737
+A229RC0,01-07-1996,21712,income,Per capita disposable income,U.S. Bureau of Economic Analysis,67,124.2531761
+A229RC0,01-08-1996,21764,income,Per capita disposable income,U.S. Bureau of Economic Analysis,68,124.5507611
+A229RC0,01-09-1996,21852,income,Per capita disposable income,U.S. Bureau of Economic Analysis,69,125.0543665
+A229RC0,01-10-1996,21893,income,Per capita disposable income,U.S. Bureau of Economic Analysis,70,125.2890008
+A229RC0,01-11-1996,21970,income,Per capita disposable income,U.S. Bureau of Economic Analysis,71,125.7296555
+A229RC0,01-12-1996,22050,income,Per capita disposable income,U.S. Bureau of Economic Analysis,72,126.1874785
+A229RC0,01-01-1997,22124,income,Per capita disposable income,U.S. Bureau of Economic Analysis,73,126.6109649
+A229RC0,01-02-1997,22213,income,Per capita disposable income,U.S. Bureau of Economic Analysis,74,127.120293
+A229RC0,01-03-1997,22322,income,Per capita disposable income,U.S. Bureau of Economic Analysis,75,127.7440769
+A229RC0,01-04-1997,22339,income,Per capita disposable income,U.S. Bureau of Economic Analysis,76,127.8413643
+A229RC0,01-05-1997,22405,income,Per capita disposable income,U.S. Bureau of Economic Analysis,77,128.2190683
+A229RC0,01-06-1997,22482,income,Per capita disposable income,U.S. Bureau of Economic Analysis,78,128.659723
+A229RC0,01-07-1997,22555,income,Per capita disposable income,U.S. Bureau of Economic Analysis,79,129.0774866
+A229RC0,01-08-1997,22664,income,Per capita disposable income,U.S. Bureau of Economic Analysis,80,129.7012705
+A229RC0,01-09-1997,22752,income,Per capita disposable income,U.S. Bureau of Economic Analysis,81,130.2048758
+A229RC0,01-10-1997,22871,income,Per capita disposable income,U.S. Bureau of Economic Analysis,82,130.8858876
+A229RC0,01-11-1997,22998,income,Per capita disposable income,U.S. Bureau of Economic Analysis,83,131.6126817
+A229RC0,01-12-1997,23104,income,Per capita disposable income,U.S. Bureau of Economic Analysis,84,132.2192972
+A229RC0,01-01-1998,23299,income,Per capita disposable income,U.S. Bureau of Economic Analysis,85,133.3352409
+A229RC0,01-02-1998,23416,income,Per capita disposable income,U.S. Bureau of Economic Analysis,86,134.0048071
+A229RC0,01-03-1998,23535,income,Per capita disposable income,U.S. Bureau of Economic Analysis,87,134.6858189
+A229RC0,01-04-1998,23615,income,Per capita disposable income,U.S. Bureau of Economic Analysis,88,135.143642
+A229RC0,01-05-1998,23722,income,Per capita disposable income,U.S. Bureau of Economic Analysis,89,135.7559803
+A229RC0,01-06-1998,23812,income,Per capita disposable income,U.S. Bureau of Economic Analysis,90,136.2710312
+A229RC0,01-07-1998,23888,income,Per capita disposable income,U.S. Bureau of Economic Analysis,91,136.7059631
+A229RC0,01-08-1998,23972,income,Per capita disposable income,U.S. Bureau of Economic Analysis,92,137.1866773
+A229RC0,01-09-1998,24003,income,Per capita disposable income,U.S. Bureau of Economic Analysis,93,137.3640838
+A229RC0,01-10-1998,24066,income,Per capita disposable income,U.S. Bureau of Economic Analysis,94,137.7246194
+A229RC0,01-11-1998,24144,income,Per capita disposable income,U.S. Bureau of Economic Analysis,95,138.1709969
+A229RC0,01-12-1998,24193,income,Per capita disposable income,U.S. Bureau of Economic Analysis,96,138.4514135
+A229RC0,01-01-1999,24340,income,Per capita disposable income,U.S. Bureau of Economic Analysis,97,139.2926634
+A229RC0,01-02-1999,24394,income,Per capita disposable income,U.S. Bureau of Economic Analysis,98,139.6016939
+A229RC0,01-03-1999,24417,income,Per capita disposable income,U.S. Bureau of Economic Analysis,99,139.7333181
+A229RC0,01-04-1999,24436,income,Per capita disposable income,U.S. Bureau of Economic Analysis,100,139.842051
+A229RC0,01-05-1999,24474,income,Per capita disposable income,U.S. Bureau of Economic Analysis,101,140.059517
+A229RC0,01-06-1999,24543,income,Per capita disposable income,U.S. Bureau of Economic Analysis,102,140.4543894
+A229RC0,01-07-1999,24632,income,Per capita disposable income,U.S. Bureau of Economic Analysis,103,140.9637175
+A229RC0,01-08-1999,24759,income,Per capita disposable income,U.S. Bureau of Economic Analysis,104,141.6905116
+A229RC0,01-09-1999,24793,income,Per capita disposable income,U.S. Bureau of Economic Analysis,105,141.8850864
+A229RC0,01-10-1999,24949,income,Per capita disposable income,U.S. Bureau of Economic Analysis,106,142.7778414
+A229RC0,01-11-1999,25113,income,Per capita disposable income,U.S. Bureau of Economic Analysis,107,143.7163786
+A229RC0,01-12-1999,25345,income,Per capita disposable income,U.S. Bureau of Economic Analysis,108,145.0440655
+A229RC0,01-01-2000,25558,income,Per capita disposable income,U.S. Bureau of Economic Analysis,109,146.2630193
+A229RC0,01-02-2000,25718,income,Per capita disposable income,U.S. Bureau of Economic Analysis,110,147.1786654
+A229RC0,01-03-2000,25877,income,Per capita disposable income,U.S. Bureau of Economic Analysis,111,148.0885888
+A229RC0,01-04-2000,25967,income,Per capita disposable income,U.S. Bureau of Economic Analysis,112,148.6036397
+A229RC0,01-05-2000,26074,income,Per capita disposable income,U.S. Bureau of Economic Analysis,113,149.215978
+A229RC0,01-06-2000,26212,income,Per capita disposable income,U.S. Bureau of Economic Analysis,114,150.0057228
+A229RC0,01-07-2000,26392,income,Per capita disposable income,U.S. Bureau of Economic Analysis,115,151.0358247
+A229RC0,01-08-2000,26526,income,Per capita disposable income,U.S. Bureau of Economic Analysis,116,151.8026783
+A229RC0,01-09-2000,26644,income,Per capita disposable income,U.S. Bureau of Economic Analysis,117,152.4779673
+A229RC0,01-10-2000,26728,income,Per capita disposable income,U.S. Bureau of Economic Analysis,118,152.9586815
+A229RC0,01-11-2000,26750,income,Per capita disposable income,U.S. Bureau of Economic Analysis,119,153.0845828
+A229RC0,01-12-2000,26820,income,Per capita disposable income,U.S. Bureau of Economic Analysis,120,153.485178
+A229RC0,01-01-2001,27069,income,Per capita disposable income,U.S. Bureau of Economic Analysis,121,154.9101522
+A229RC0,01-02-2001,27123,income,Per capita disposable income,U.S. Bureau of Economic Analysis,122,155.2191828
+A229RC0,01-03-2001,27175,income,Per capita disposable income,U.S. Bureau of Economic Analysis,123,155.5167678
+A229RC0,01-04-2001,27121,income,Per capita disposable income,U.S. Bureau of Economic Analysis,124,155.2077372
+A229RC0,01-05-2001,27103,income,Per capita disposable income,U.S. Bureau of Economic Analysis,125,155.104727
+A229RC0,01-06-2001,27123,income,Per capita disposable income,U.S. Bureau of Economic Analysis,126,155.2191828
+A229RC0,01-07-2001,27486,income,Per capita disposable income,U.S. Bureau of Economic Analysis,127,157.2965549
+A229RC0,01-08-2001,27909,income,Per capita disposable income,U.S. Bureau of Economic Analysis,128,159.7172943
+A229RC0,01-09-2001,27551,income,Per capita disposable income,U.S. Bureau of Economic Analysis,129,157.6685361
+A229RC0,01-10-2001,27138,income,Per capita disposable income,U.S. Bureau of Economic Analysis,130,155.3050246
+A229RC0,01-11-2001,27129,income,Per capita disposable income,U.S. Bureau of Economic Analysis,131,155.2535195
+A229RC0,01-12-2001,27127,income,Per capita disposable income,U.S. Bureau of Economic Analysis,132,155.2420739
+A229RC0,01-01-2002,27693,income,Per capita disposable income,U.S. Bureau of Economic Analysis,133,158.481172
+A229RC0,01-02-2002,27761,income,Per capita disposable income,U.S. Bureau of Economic Analysis,134,158.8703216
+A229RC0,01-03-2002,27836,income,Per capita disposable income,U.S. Bureau of Economic Analysis,135,159.2995307
+A229RC0,01-04-2002,28027,income,Per capita disposable income,U.S. Bureau of Economic Analysis,136,160.3925833
+A229RC0,01-05-2002,28137,income,Per capita disposable income,U.S. Bureau of Economic Analysis,137,161.02209
+A229RC0,01-06-2002,28235,income,Per capita disposable income,U.S. Bureau of Economic Analysis,138,161.5829232
+A229RC0,01-07-2002,28203,income,Per capita disposable income,U.S. Bureau of Economic Analysis,139,161.399794
+A229RC0,01-08-2002,28242,income,Per capita disposable income,U.S. Bureau of Economic Analysis,140,161.6229827
+A229RC0,01-09-2002,28301,income,Per capita disposable income,U.S. Bureau of Economic Analysis,141,161.9606272
+A229RC0,01-10-2002,28411,income,Per capita disposable income,U.S. Bureau of Economic Analysis,142,162.5901339
+A229RC0,01-11-2002,28494,income,Per capita disposable income,U.S. Bureau of Economic Analysis,143,163.0651253
+A229RC0,01-12-2002,28569,income,Per capita disposable income,U.S. Bureau of Economic Analysis,144,163.4943344
+A229RC0,01-01-2003,28593,income,Per capita disposable income,U.S. Bureau of Economic Analysis,145,163.6316814
+A229RC0,01-02-2003,28592,income,Per capita disposable income,U.S. Bureau of Economic Analysis,146,163.6259586
+A229RC0,01-03-2003,28713,income,Per capita disposable income,U.S. Bureau of Economic Analysis,147,164.3184159
+A229RC0,01-04-2003,28813,income,Per capita disposable income,U.S. Bureau of Economic Analysis,148,164.8906947
+A229RC0,01-05-2003,28983,income,Per capita disposable income,U.S. Bureau of Economic Analysis,149,165.8635687
+A229RC0,01-06-2003,29075,income,Per capita disposable income,U.S. Bureau of Economic Analysis,150,166.3900652
+A229RC0,01-07-2003,29488,income,Per capita disposable income,U.S. Bureau of Economic Analysis,151,168.7535767
+A229RC0,01-08-2003,29767,income,Per capita disposable income,U.S. Bureau of Economic Analysis,152,170.3502346
+A229RC0,01-09-2003,29498,income,Per capita disposable income,U.S. Bureau of Economic Analysis,153,168.8108046
+A229RC0,01-10-2003,29589,income,Per capita disposable income,U.S. Bureau of Economic Analysis,154,169.3315783
+A229RC0,01-11-2003,29782,income,Per capita disposable income,U.S. Bureau of Economic Analysis,155,170.4360765
+A229RC0,01-12-2003,29851,income,Per capita disposable income,U.S. Bureau of Economic Analysis,156,170.8309488
+A229RC0,01-01-2004,29930,income,Per capita disposable income,U.S. Bureau of Economic Analysis,157,171.2830491
+A229RC0,01-02-2004,30028,income,Per capita disposable income,U.S. Bureau of Economic Analysis,158,171.8438823
+A229RC0,01-03-2004,30175,income,Per capita disposable income,U.S. Bureau of Economic Analysis,159,172.6851322
+A229RC0,01-04-2004,30312,income,Per capita disposable income,U.S. Bureau of Economic Analysis,160,173.4691542
+A229RC0,01-05-2004,30542,income,Per capita disposable income,U.S. Bureau of Economic Analysis,161,174.7853954
+A229RC0,01-06-2004,30629,income,Per capita disposable income,U.S. Bureau of Economic Analysis,162,175.283278
+A229RC0,01-07-2004,30708,income,Per capita disposable income,U.S. Bureau of Economic Analysis,163,175.7353783
+A229RC0,01-08-2004,30799,income,Per capita disposable income,U.S. Bureau of Economic Analysis,164,176.256152
+A229RC0,01-09-2004,30855,income,Per capita disposable income,U.S. Bureau of Economic Analysis,165,176.5766281
+A229RC0,01-10-2004,30979,income,Per capita disposable income,U.S. Bureau of Economic Analysis,166,177.2862539
+A229RC0,01-11-2004,30986,income,Per capita disposable income,U.S. Bureau of Economic Analysis,167,177.3263134
+A229RC0,01-12-2004,32127,income,Per capita disposable income,U.S. Bureau of Economic Analysis,168,183.8560147
+A229RC0,01-01-2005,30978,income,Per capita disposable income,U.S. Bureau of Economic Analysis,169,177.2805311
+A229RC0,01-02-2005,31064,income,Per capita disposable income,U.S. Bureau of Economic Analysis,170,177.7726909
+A229RC0,01-03-2005,31255,income,Per capita disposable income,U.S. Bureau of Economic Analysis,171,178.8657434
+A229RC0,01-04-2005,31420,income,Per capita disposable income,U.S. Bureau of Economic Analysis,172,179.8100034
+A229RC0,01-05-2005,31555,income,Per capita disposable income,U.S. Bureau of Economic Analysis,173,180.5825798
+A229RC0,01-06-2005,31621,income,Per capita disposable income,U.S. Bureau of Economic Analysis,174,180.9602839
+A229RC0,01-07-2005,31771,income,Per capita disposable income,U.S. Bureau of Economic Analysis,175,181.8187021
+A229RC0,01-08-2005,31923,income,Per capita disposable income,U.S. Bureau of Economic Analysis,176,182.6885659
+A229RC0,01-09-2005,32080,income,Per capita disposable income,U.S. Bureau of Economic Analysis,177,183.5870436
+A229RC0,01-10-2005,32266,income,Per capita disposable income,U.S. Bureau of Economic Analysis,178,184.6514822
+A229RC0,01-11-2005,32374,income,Per capita disposable income,U.S. Bureau of Economic Analysis,179,185.2695433
+A229RC0,01-12-2005,32463,income,Per capita disposable income,U.S. Bureau of Economic Analysis,180,185.7788715
+A229RC0,01-01-2006,32955,income,Per capita disposable income,U.S. Bureau of Economic Analysis,181,188.5944832
+A229RC0,01-02-2006,33114,income,Per capita disposable income,U.S. Bureau of Economic Analysis,182,189.5044065
+A229RC0,01-03-2006,33286,income,Per capita disposable income,U.S. Bureau of Economic Analysis,183,190.4887261
+A229RC0,01-04-2006,33400,income,Per capita disposable income,U.S. Bureau of Economic Analysis,184,191.141124
+A229RC0,01-05-2006,33441,income,Per capita disposable income,U.S. Bureau of Economic Analysis,185,191.3757583
+A229RC0,01-06-2006,33542,income,Per capita disposable income,U.S. Bureau of Economic Analysis,186,191.9537599
+A229RC0,01-07-2006,33622,income,Per capita disposable income,U.S. Bureau of Economic Analysis,187,192.4115829
+A229RC0,01-08-2006,33678,income,Per capita disposable income,U.S. Bureau of Economic Analysis,188,192.7320591
+A229RC0,01-09-2006,33747,income,Per capita disposable income,U.S. Bureau of Economic Analysis,189,193.1269314
+A229RC0,01-10-2006,33798,income,Per capita disposable income,U.S. Bureau of Economic Analysis,190,193.4187936
+A229RC0,01-11-2006,33924,income,Per capita disposable income,U.S. Bureau of Economic Analysis,191,194.1398649
+A229RC0,01-12-2006,34179,income,Per capita disposable income,U.S. Bureau of Economic Analysis,192,195.5991759
+A229RC0,01-01-2007,34259,income,Per capita disposable income,U.S. Bureau of Economic Analysis,193,196.056999
+A229RC0,01-02-2007,34449,income,Per capita disposable income,U.S. Bureau of Economic Analysis,194,197.1443287
+A229RC0,01-03-2007,34657,income,Per capita disposable income,U.S. Bureau of Economic Analysis,195,198.3346687
+A229RC0,01-04-2007,34759,income,Per capita disposable income,U.S. Bureau of Economic Analysis,196,198.918393
+A229RC0,01-05-2007,34849,income,Per capita disposable income,U.S. Bureau of Economic Analysis,197,199.433444
+A229RC0,01-06-2007,34873,income,Per capita disposable income,U.S. Bureau of Economic Analysis,198,199.5707909
+A229RC0,01-07-2007,34932,income,Per capita disposable income,U.S. Bureau of Economic Analysis,199,199.9084354
+A229RC0,01-08-2007,34942,income,Per capita disposable income,U.S. Bureau of Economic Analysis,200,199.9656633
+A229RC0,01-09-2007,35109,income,Per capita disposable income,U.S. Bureau of Economic Analysis,201,200.9213689
+A229RC0,01-10-2007,35175,income,Per capita disposable income,U.S. Bureau of Economic Analysis,202,201.2990729
+A229RC0,01-11-2007,35298,income,Per capita disposable income,U.S. Bureau of Economic Analysis,203,202.0029758
+A229RC0,01-12-2007,35476,income,Per capita disposable income,U.S. Bureau of Economic Analysis,204,203.0216321
+A229RC0,01-01-2008,35544,income,Per capita disposable income,U.S. Bureau of Economic Analysis,205,203.4107817
+A229RC0,01-02-2008,35572,income,Per capita disposable income,U.S. Bureau of Economic Analysis,206,203.5710198
+A229RC0,01-03-2008,35642,income,Per capita disposable income,U.S. Bureau of Economic Analysis,207,203.971615
+A229RC0,01-04-2008,35545,income,Per capita disposable income,U.S. Bureau of Economic Analysis,208,203.4165045
+A229RC0,01-05-2008,37408,income,Per capita disposable income,U.S. Bureau of Economic Analysis,209,214.0780588
+A229RC0,01-06-2008,36696,income,Per capita disposable income,U.S. Bureau of Economic Analysis,210,210.0034337
+A229RC0,01-07-2008,36268,income,Per capita disposable income,U.S. Bureau of Economic Analysis,211,207.5540803
+A229RC0,01-08-2008,35998,income,Per capita disposable income,U.S. Bureau of Economic Analysis,212,206.0089275
+A229RC0,01-09-2008,36075,income,Per capita disposable income,U.S. Bureau of Economic Analysis,213,206.4495822
+A229RC0,01-10-2008,36072,income,Per capita disposable income,U.S. Bureau of Economic Analysis,214,206.4324139
+A229RC0,01-11-2008,35919,income,Per capita disposable income,U.S. Bureau of Economic Analysis,215,205.5568273
+A229RC0,01-12-2008,35516,income,Per capita disposable income,U.S. Bureau of Economic Analysis,216,203.2505437
+A229RC0,01-01-2009,35687,income,Per capita disposable income,U.S. Bureau of Economic Analysis,217,204.2291404
+A229RC0,01-02-2009,35364,income,Per capita disposable income,U.S. Bureau of Economic Analysis,218,202.3806799
+A229RC0,01-03-2009,35285,income,Per capita disposable income,U.S. Bureau of Economic Analysis,219,201.9285796
+A229RC0,01-04-2009,35516,income,Per capita disposable income,U.S. Bureau of Economic Analysis,220,203.2505437
+A229RC0,01-05-2009,36034,income,Per capita disposable income,U.S. Bureau of Economic Analysis,221,206.2149479
+A229RC0,01-06-2009,35561,income,Per capita disposable income,U.S. Bureau of Economic Analysis,222,203.5080691
+A229RC0,01-07-2009,35383,income,Per capita disposable income,U.S. Bureau of Economic Analysis,223,202.4894128
+A229RC0,01-08-2009,35390,income,Per capita disposable income,U.S. Bureau of Economic Analysis,224,202.5294724
+A229RC0,01-09-2009,35524,income,Per capita disposable income,U.S. Bureau of Economic Analysis,225,203.296326
+A229RC0,01-10-2009,35522,income,Per capita disposable income,U.S. Bureau of Economic Analysis,226,203.2848804
+A229RC0,01-11-2009,35687,income,Per capita disposable income,U.S. Bureau of Economic Analysis,227,204.2291404
+A229RC0,01-12-2009,35866,income,Per capita disposable income,U.S. Bureau of Economic Analysis,228,205.2535195
+A229RC0,01-01-2010,35965,income,Per capita disposable income,U.S. Bureau of Economic Analysis,229,205.8200755
+A229RC0,01-02-2010,35975,income,Per capita disposable income,U.S. Bureau of Economic Analysis,230,205.8773034
+A229RC0,01-03-2010,36147,income,Per capita disposable income,U.S. Bureau of Economic Analysis,231,206.861623
+A229RC0,01-04-2010,36447,income,Per capita disposable income,U.S. Bureau of Economic Analysis,232,208.5784594
+A229RC0,01-05-2010,36709,income,Per capita disposable income,U.S. Bureau of Economic Analysis,233,210.0778299
+A229RC0,01-06-2010,36694,income,Per capita disposable income,U.S. Bureau of Economic Analysis,234,209.9919881
+A229RC0,01-07-2010,36750,income,Per capita disposable income,U.S. Bureau of Economic Analysis,235,210.3124642
+A229RC0,01-08-2010,36895,income,Per capita disposable income,U.S. Bureau of Economic Analysis,236,211.1422685
+A229RC0,01-09-2010,36905,income,Per capita disposable income,U.S. Bureau of Economic Analysis,237,211.1994964
+A229RC0,01-10-2010,37000,income,Per capita disposable income,U.S. Bureau of Economic Analysis,238,211.7431613
+A229RC0,01-11-2010,37083,income,Per capita disposable income,U.S. Bureau of Economic Analysis,239,212.2181527
+A229RC0,01-12-2010,37361,income,Per capita disposable income,U.S. Bureau of Economic Analysis,240,213.8090878
+A229RC0,01-01-2011,37623,income,Per capita disposable income,U.S. Bureau of Economic Analysis,241,215.3084583
+A229RC0,01-02-2011,37812,income,Per capita disposable income,U.S. Bureau of Economic Analysis,242,216.3900652
+A229RC0,01-03-2011,37839,income,Per capita disposable income,U.S. Bureau of Economic Analysis,243,216.5445805
+A229RC0,01-04-2011,37909,income,Per capita disposable income,U.S. Bureau of Economic Analysis,244,216.9451757
+A229RC0,01-05-2011,37946,income,Per capita disposable income,U.S. Bureau of Economic Analysis,245,217.1569189
+A229RC0,01-06-2011,38056,income,Per capita disposable income,U.S. Bureau of Economic Analysis,246,217.7864255
+A229RC0,01-07-2011,38224,income,Per capita disposable income,U.S. Bureau of Economic Analysis,247,218.747854
+A229RC0,01-08-2011,38262,income,Per capita disposable income,U.S. Bureau of Economic Analysis,248,218.9653199
+A229RC0,01-09-2011,38237,income,Per capita disposable income,U.S. Bureau of Economic Analysis,249,218.8222502
+A229RC0,01-10-2011,38254,income,Per capita disposable income,U.S. Bureau of Economic Analysis,250,218.9195376
+A229RC0,01-11-2011,38297,income,Per capita disposable income,U.S. Bureau of Economic Analysis,251,219.1656175
+A229RC0,01-12-2011,38660,income,Per capita disposable income,U.S. Bureau of Economic Analysis,252,221.2429896
+A229RC0,01-01-2012,39037,income,Per capita disposable income,U.S. Bureau of Economic Analysis,253,223.4004807
+A229RC0,01-02-2012,39339,income,Per capita disposable income,U.S. Bureau of Economic Analysis,254,225.1287627
+A229RC0,01-03-2012,39541,income,Per capita disposable income,U.S. Bureau of Economic Analysis,255,226.2847659
+A229RC0,01-04-2012,39749,income,Per capita disposable income,U.S. Bureau of Economic Analysis,256,227.4751059
+A229RC0,01-05-2012,39694,income,Per capita disposable income,U.S. Bureau of Economic Analysis,257,227.1603525
+A229RC0,01-06-2012,39626,income,Per capita disposable income,U.S. Bureau of Economic Analysis,258,226.7712029
+A229RC0,01-07-2012,39342,income,Per capita disposable income,U.S. Bureau of Economic Analysis,259,225.1459311
+A229RC0,01-08-2012,39345,income,Per capita disposable income,U.S. Bureau of Economic Analysis,260,225.1630995
+A229RC0,01-09-2012,39721,income,Per capita disposable income,U.S. Bureau of Economic Analysis,261,227.3148678
+A229RC0,01-10-2012,40085,income,Per capita disposable income,U.S. Bureau of Economic Analysis,262,229.3979627
+A229RC0,01-11-2012,40560,income,Per capita disposable income,U.S. Bureau of Economic Analysis,263,232.1162871
+A229RC0,01-12-2012,41517,income,Per capita disposable income,U.S. Bureau of Economic Analysis,264,237.5929953
+A229RC0,01-01-2013,39173,income,Per capita disposable income,U.S. Bureau of Economic Analysis,265,224.1787799
+A229RC0,01-02-2013,39191,income,Per capita disposable income,U.S. Bureau of Economic Analysis,266,224.2817901
+A229RC0,01-03-2013,39240,income,Per capita disposable income,U.S. Bureau of Economic Analysis,267,224.5622067
+A229RC0,01-04-2013,39308,income,Per capita disposable income,U.S. Bureau of Economic Analysis,268,224.9513563
+A229RC0,01-05-2013,39502,income,Per capita disposable income,U.S. Bureau of Economic Analysis,269,226.0615772
+A229RC0,01-06-2013,39574,income,Per capita disposable income,U.S. Bureau of Economic Analysis,270,226.4736179
+A229RC0,01-07-2013,39562,income,Per capita disposable income,U.S. Bureau of Economic Analysis,271,226.4049445
+A229RC0,01-08-2013,39688,income,Per capita disposable income,U.S. Bureau of Economic Analysis,272,227.1260158
+A229RC0,01-09-2013,39842,income,Per capita disposable income,U.S. Bureau of Economic Analysis,273,228.0073252
+A229RC0,01-10-2013,39767,income,Per capita disposable income,U.S. Bureau of Economic Analysis,274,227.5781161
+A229RC0,01-11-2013,39905,income,Per capita disposable income,U.S. Bureau of Economic Analysis,275,228.3678608
+A229RC0,01-12-2013,40046,income,Per capita disposable income,U.S. Bureau of Economic Analysis,276,229.1747739
+A229RC0,01-01-2014,40296,income,Per capita disposable income,U.S. Bureau of Economic Analysis,277,230.605471
+A229RC0,01-02-2014,40513,income,Per capita disposable income,U.S. Bureau of Economic Analysis,278,231.847316
+A229RC0,01-03-2014,40795,income,Per capita disposable income,U.S. Bureau of Economic Analysis,279,233.4611423
+A229RC0,01-04-2014,41015,income,Per capita disposable income,U.S. Bureau of Economic Analysis,280,234.7201557
+A229RC0,01-05-2014,41211,income,Per capita disposable income,U.S. Bureau of Economic Analysis,281,235.8418221
+A229RC0,01-06-2014,41401,income,Per capita disposable income,U.S. Bureau of Economic Analysis,282,236.9291519
+A229RC0,01-07-2014,41558,income,Per capita disposable income,U.S. Bureau of Economic Analysis,283,237.8276296
+A229RC0,01-08-2014,41721,income,Per capita disposable income,U.S. Bureau of Economic Analysis,284,238.7604441
+A229RC0,01-09-2014,41839,income,Per capita disposable income,U.S. Bureau of Economic Analysis,285,239.4357331
+A229RC0,01-10-2014,41982,income,Per capita disposable income,U.S. Bureau of Economic Analysis,286,240.2540918
+A229RC0,01-11-2014,42143,income,Per capita disposable income,U.S. Bureau of Economic Analysis,287,241.1754607
+A229RC0,01-12-2014,42337,income,Per capita disposable income,U.S. Bureau of Economic Analysis,288,242.2856816
+A229RC0,01-01-2015,42358,income,Per capita disposable income,U.S. Bureau of Economic Analysis,289,242.4058601
+A229RC0,01-02-2015,42559,income,Per capita disposable income,U.S. Bureau of Economic Analysis,290,243.5561406
+A229RC0,01-03-2015,42496,income,Per capita disposable income,U.S. Bureau of Economic Analysis,291,243.1956049
+A229RC0,01-04-2015,42599,income,Per capita disposable income,U.S. Bureau of Economic Analysis,292,243.7850521
+A229RC0,01-05-2015,42747,income,Per capita disposable income,U.S. Bureau of Economic Analysis,293,244.6320247
+A229RC0,01-06-2015,42830,income,Per capita disposable income,U.S. Bureau of Economic Analysis,294,245.1070161
+A229RC0,01-07-2015,42938,income,Per capita disposable income,U.S. Bureau of Economic Analysis,295,245.7250773
+A229RC0,01-08-2015,43008,income,Per capita disposable income,U.S. Bureau of Economic Analysis,296,246.1256724
+A229RC0,01-09-2015,43034,income,Per capita disposable income,U.S. Bureau of Economic Analysis,297,246.2744649
+A229RC0,01-10-2015,43088,income,Per capita disposable income,U.S. Bureau of Economic Analysis,298,246.5834955
+A229RC0,01-11-2015,43082,income,Per capita disposable income,U.S. Bureau of Economic Analysis,299,246.5491588
+A229RC0,01-12-2015,43228,income,Per capita disposable income,U.S. Bureau of Economic Analysis,300,247.3846858
+A229RC0,01-01-2016,43386,income,Per capita disposable income,U.S. Bureau of Economic Analysis,301,248.2888863
+A229RC0,01-02-2016,43384,income,Per capita disposable income,U.S. Bureau of Economic Analysis,302,248.2774408
+A229RC0,01-03-2016,43466,income,Per capita disposable income,U.S. Bureau of Economic Analysis,303,248.7467094
+A229RC0,01-04-2016,43505,income,Per capita disposable income,U.S. Bureau of Economic Analysis,304,248.9698981
+A229RC0,01-05-2016,43523,income,Per capita disposable income,U.S. Bureau of Economic Analysis,305,249.0729083
+A229RC0,01-06-2016,43600,income,Per capita disposable income,U.S. Bureau of Economic Analysis,306,249.513563
+A229RC0,01-07-2016,43738,income,Per capita disposable income,U.S. Bureau of Economic Analysis,307,250.3033078
+A229RC0,01-08-2016,43813,income,Per capita disposable income,U.S. Bureau of Economic Analysis,308,250.7325169
+A229RC0,01-09-2016,43956,income,Per capita disposable income,U.S. Bureau of Economic Analysis,309,251.5508756
+A229RC0,01-10-2016,44089,income,Per capita disposable income,U.S. Bureau of Economic Analysis,310,252.3120064
+A229RC0,01-11-2016,44179,income,Per capita disposable income,U.S. Bureau of Economic Analysis,311,252.8270573
+A229RC0,01-12-2016,44326,income,Per capita disposable income,U.S. Bureau of Economic Analysis,312,253.6683072
+A229RC0,01-01-2017,44657,income,Per capita disposable income,U.S. Bureau of Economic Analysis,313,255.5625501
+A229RC0,01-02-2017,44841,income,Per capita disposable income,U.S. Bureau of Economic Analysis,314,256.6155431
+A229RC0,01-03-2017,44990,income,Per capita disposable income,U.S. Bureau of Economic Analysis,315,257.4682385
+A229RC0,01-04-2017,45150,income,Per capita disposable income,U.S. Bureau of Economic Analysis,316,258.3838846
+A229RC0,01-05-2017,45418,income,Per capita disposable income,U.S. Bureau of Economic Analysis,317,259.9175919
+A229RC0,01-06-2017,45446,income,Per capita disposable income,U.S. Bureau of Economic Analysis,318,260.0778299
+A229RC0,01-07-2017,45550,income,Per capita disposable income,U.S. Bureau of Economic Analysis,319,260.6729999
+A229RC0,01-08-2017,45676,income,Per capita disposable income,U.S. Bureau of Economic Analysis,320,261.3940712
+A229RC0,01-09-2017,45892,income,Per capita disposable income,U.S. Bureau of Economic Analysis,321,262.6301934
+A229RC0,01-10-2017,46047,income,Per capita disposable income,U.S. Bureau of Economic Analysis,322,263.5172256
+A229RC0,01-11-2017,46159,income,Per capita disposable income,U.S. Bureau of Economic Analysis,323,264.1581779
+A229RC0,01-12-2017,46299,income,Per capita disposable income,U.S. Bureau of Economic Analysis,324,264.9593682
+A229RC0,01-01-2018,46766,income,Per capita disposable income,U.S. Bureau of Economic Analysis,325,267.6319103
+A229RC0,01-02-2018,46974,income,Per capita disposable income,U.S. Bureau of Economic Analysis,326,268.8222502
+A229RC0,01-03-2018,47191,income,Per capita disposable income,U.S. Bureau of Economic Analysis,327,270.0640952
+A229RC0,01-04-2018,47392,income,Per capita disposable income,U.S. Bureau of Economic Analysis,328,271.2143756
+A229RC0,01-05-2018,47602,income,Per capita disposable income,U.S. Bureau of Economic Analysis,329,272.4161612
+A229RC0,01-06-2018,47784,income,Per capita disposable income,U.S. Bureau of Economic Analysis,330,273.4577086
+A229RC0,01-07-2018,47967,income,Per capita disposable income,U.S. Bureau of Economic Analysis,331,274.5049788
+A229RC0,01-08-2018,48113,income,Per capita disposable income,U.S. Bureau of Economic Analysis,332,275.3405059
+A229RC0,01-09-2018,48155,income,Per capita disposable income,U.S. Bureau of Economic Analysis,333,275.580863
+A229RC0,01-10-2018,48330,income,Per capita disposable income,U.S. Bureau of Economic Analysis,334,276.5823509
+A229RC0,01-11-2018,48420,income,Per capita disposable income,U.S. Bureau of Economic Analysis,335,277.0974019
+A229RC0,01-12-2018,48951,income,Per capita disposable income,U.S. Bureau of Economic Analysis,336,280.1362024
+A229RC0,01-01-2019,48892,income,Per capita disposable income,U.S. Bureau of Economic Analysis,337,279.7985579
+A229RC0,01-02-2019,49017,income,Per capita disposable income,U.S. Bureau of Economic Analysis,338,280.5139064
+A229RC0,01-03-2019,49103,income,Per capita disposable income,U.S. Bureau of Economic Analysis,339,281.0060662
+A229RC0,01-04-2019,49095,income,Per capita disposable income,U.S. Bureau of Economic Analysis,340,280.9602839
+A229RC0,01-05-2019,49091,income,Per capita disposable income,U.S. Bureau of Economic Analysis,341,280.9373927
+A229RC0,01-06-2019,49155,income,Per capita disposable income,U.S. Bureau of Economic Analysis,342,281.3036511
+A229RC0,01-07-2019,49258,income,Per capita disposable income,U.S. Bureau of Economic Analysis,343,281.8930983
+A229RC0,01-08-2019,49508,income,Per capita disposable income,U.S. Bureau of Economic Analysis,344,283.3237954
+A229RC0,01-09-2019,49619,income,Per capita disposable income,U.S. Bureau of Economic Analysis,345,283.9590248
+A229RC0,01-10-2019,49760,income,Per capita disposable income,U.S. Bureau of Economic Analysis,346,284.765938
+A229RC0,01-11-2019,49995,income,Per capita disposable income,U.S. Bureau of Economic Analysis,347,286.1107932
+A229RC0,01-12-2019,49935,income,Per capita disposable income,U.S. Bureau of Economic Analysis,348,285.7674259
+A229RC0,01-01-2020,50460,income,Per capita disposable income,U.S. Bureau of Economic Analysis,349,288.7718897
+A229RC0,01-02-2020,50784,income,Per capita disposable income,U.S. Bureau of Economic Analysis,350,290.626073
+A229RC0,01-03-2020,49886,income,Per capita disposable income,U.S. Bureau of Economic Analysis,351,285.4870093
+A229RC0,01-04-2020,57373,income,Per capita disposable income,U.S. Bureau of Economic Analysis,352,328.3335241
+A229RC0,01-05-2020,54636,income,Per capita disposable income,U.S. Bureau of Economic Analysis,353,312.6702529
+A229RC0,01-06-2020,53950,income,Per capita disposable income,U.S. Bureau of Economic Analysis,354,308.7444203
+A229RC0,01-07-2020,54393,income,Per capita disposable income,U.S. Bureau of Economic Analysis,355,311.2796154
+A229RC0,01-08-2020,52516,income,Per capita disposable income,U.S. Bureau of Economic Analysis,356,300.5379421
+A229RC0,01-09-2020,52874,income,Per capita disposable income,U.S. Bureau of Economic Analysis,357,302.5867002
+A229RC0,01-10-2020,52614,income,Per capita disposable income,U.S. Bureau of Economic Analysis,358,301.0987753
+A229RC0,01-11-2020,51917,income,Per capita disposable income,U.S. Bureau of Economic Analysis,359,297.109992
+A229RC0,01-12-2020,52194,income,Per capita disposable income,U.S. Bureau of Economic Analysis,360,298.6952043
+A229RC0,01-01-2021,57771,income,Per capita disposable income,U.S. Bureau of Economic Analysis,361,330.6111938
+A229RC0,01-02-2021,53010,income,Per capita disposable income,U.S. Bureau of Economic Analysis,362,303.3649994
+A229RC0,01-03-2021,65543,income,Per capita disposable income,U.S. Bureau of Economic Analysis,363,375.0887032
+A229RC0,01-04-2021,55394,income,Per capita disposable income,U.S. Bureau of Economic Analysis,364,317.0081264
+A229RC0,01-05-2021,53897,income,Per capita disposable income,U.S. Bureau of Economic Analysis,365,308.4411125
+CUSR0000SA0L2,01-01-1991,132.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,1,100
+CUSR0000SA0L2,01-02-1991,132.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,2,100
+CUSR0000SA0L2,01-03-1991,132.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,3,99.92435703
+CUSR0000SA0L2,01-04-1991,132.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,4,100.1512859
+CUSR0000SA0L2,01-05-1991,133,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,5,100.6051437
+CUSR0000SA0L2,01-06-1991,133.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,6,100.8320726
+CUSR0000SA0L2,01-07-1991,133.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,7,100.9833585
+CUSR0000SA0L2,01-08-1991,133.9,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,8,101.2859304
+CUSR0000SA0L2,01-09-1991,134.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,9,101.5885023
+CUSR0000SA0L2,01-10-1991,134.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,10,101.6641452
+CUSR0000SA0L2,01-11-1991,135,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,11,102.118003
+CUSR0000SA0L2,01-12-1991,135.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,12,102.3449319
+CUSR0000SA0L2,01-01-1992,135.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,13,102.3449319
+CUSR0000SA0L2,01-02-1992,135.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,14,102.5718608
+CUSR0000SA0L2,01-03-1992,136,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,15,102.8744327
+CUSR0000SA0L2,01-04-1992,136.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,16,103.1770045
+CUSR0000SA0L2,01-05-1992,136.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,17,103.4039334
+CUSR0000SA0L2,01-06-1992,137.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,18,103.7065053
+CUSR0000SA0L2,01-07-1992,137.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,19,104.0090772
+CUSR0000SA0L2,01-08-1992,137.9,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,20,104.311649
+CUSR0000SA0L2,01-09-1992,138.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,21,104.5385779
+CUSR0000SA0L2,01-10-1992,138.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,22,104.9167927
+CUSR0000SA0L2,01-11-1992,139.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,23,105.2193646
+CUSR0000SA0L2,01-12-1992,139.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,24,105.4462935
+CUSR0000SA0L2,01-01-1993,139.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,25,105.6732224
+CUSR0000SA0L2,01-02-1993,140.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,26,105.9757943
+CUSR0000SA0L2,01-03-1993,140.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,27,106.1270802
+CUSR0000SA0L2,01-04-1993,140.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,28,106.429652
+CUSR0000SA0L2,01-05-1993,141.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,29,106.7322239
+CUSR0000SA0L2,01-06-1993,141.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,30,106.8078669
+CUSR0000SA0L2,01-07-1993,141.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,31,106.8835098
+CUSR0000SA0L2,01-08-1993,141.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,32,107.1860817
+CUSR0000SA0L2,01-09-1993,141.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,33,107.2617247
+CUSR0000SA0L2,01-10-1993,142.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,34,107.7912254
+CUSR0000SA0L2,01-11-1993,142.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,35,108.0181543
+CUSR0000SA0L2,01-12-1993,143.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,36,108.2450832
+CUSR0000SA0L2,01-01-1994,143.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,37,108.2450832
+CUSR0000SA0L2,01-02-1994,143.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,38,108.3963691
+CUSR0000SA0L2,01-03-1994,143.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,39,108.623298
+CUSR0000SA0L2,01-04-1994,143.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,40,108.774584
+CUSR0000SA0L2,01-05-1994,144,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,41,108.9258699
+CUSR0000SA0L2,01-06-1994,144.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,42,109.3040847
+CUSR0000SA0L2,01-07-1994,145.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,43,109.7579425
+CUSR0000SA0L2,01-08-1994,145.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,44,110.1361573
+CUSR0000SA0L2,01-09-1994,145.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,45,110.2874433
+CUSR0000SA0L2,01-10-1994,145.9,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,46,110.3630862
+CUSR0000SA0L2,01-11-1994,146.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,47,110.5900151
+CUSR0000SA0L2,01-12-1994,146.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,48,110.892587
+CUSR0000SA0L2,01-01-1995,147,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,49,111.1951589
+CUSR0000SA0L2,01-02-1995,147.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,50,111.4977307
+CUSR0000SA0L2,01-03-1995,147.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,51,111.6490166
+CUSR0000SA0L2,01-04-1995,148.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,52,112.1028744
+CUSR0000SA0L2,01-05-1995,148.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,53,112.2541604
+CUSR0000SA0L2,01-06-1995,148.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,54,112.4810893
+CUSR0000SA0L2,01-07-1995,148.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,55,112.5567322
+CUSR0000SA0L2,01-08-1995,149.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,56,112.7836611
+CUSR0000SA0L2,01-09-1995,149.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,57,112.8593041
+CUSR0000SA0L2,01-10-1995,149.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,58,113.1618759
+CUSR0000SA0L2,01-11-1995,149.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,59,113.1618759
+CUSR0000SA0L2,01-12-1995,149.9,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,60,113.3888048
+CUSR0000SA0L2,01-01-1996,150.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,61,113.9183056
+CUSR0000SA0L2,01-02-1996,151,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,62,114.2208775
+CUSR0000SA0L2,01-03-1996,151.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,63,114.5990923
+CUSR0000SA0L2,01-04-1996,152.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,64,115.0529501
+CUSR0000SA0L2,01-05-1996,152.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,65,115.3555219
+CUSR0000SA0L2,01-06-1996,152.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,66,115.5068079
+CUSR0000SA0L2,01-07-1996,152.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,67,115.5824508
+CUSR0000SA0L2,01-08-1996,153,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,68,115.7337368
+CUSR0000SA0L2,01-09-1996,153.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,69,116.1875946
+CUSR0000SA0L2,01-10-1996,154.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,70,116.5658094
+CUSR0000SA0L2,01-11-1996,154.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,71,116.9440242
+CUSR0000SA0L2,01-12-1996,155.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,72,117.322239
+CUSR0000SA0L2,01-01-1997,155.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,73,117.473525
+CUSR0000SA0L2,01-02-1997,155.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,74,117.6248109
+CUSR0000SA0L2,01-03-1997,155.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,75,117.6248109
+CUSR0000SA0L2,01-04-1997,155.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,76,117.6248109
+CUSR0000SA0L2,01-05-1997,155.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,77,117.5491679
+CUSR0000SA0L2,01-06-1997,155.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,78,117.7760968
+CUSR0000SA0L2,01-07-1997,155.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,79,117.7760968
+CUSR0000SA0L2,01-08-1997,156,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,80,118.0030257
+CUSR0000SA0L2,01-09-1997,156.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,81,118.3812405
+CUSR0000SA0L2,01-10-1997,156.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,82,118.5325265
+CUSR0000SA0L2,01-11-1997,156.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,83,118.6081694
+CUSR0000SA0L2,01-12-1997,156.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,84,118.5325265
+CUSR0000SA0L2,01-01-1998,156.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,85,118.6081694
+CUSR0000SA0L2,01-02-1998,156.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,86,118.4568835
+CUSR0000SA0L2,01-03-1998,156.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,87,118.3812405
+CUSR0000SA0L2,01-04-1998,156.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,88,118.4568835
+CUSR0000SA0L2,01-05-1998,157,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,89,118.7594554
+CUSR0000SA0L2,01-06-1998,157.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,90,118.8350983
+CUSR0000SA0L2,01-07-1998,157.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,91,119.0620272
+CUSR0000SA0L2,01-08-1998,157.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,92,119.2133132
+CUSR0000SA0L2,01-09-1998,157.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,93,119.0620272
+CUSR0000SA0L2,01-10-1998,157.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,94,119.2889561
+CUSR0000SA0L2,01-11-1998,157.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,95,119.3645991
+CUSR0000SA0L2,01-12-1998,158.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,96,119.591528
+CUSR0000SA0L2,01-01-1999,158.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,97,119.8940998
+CUSR0000SA0L2,01-02-1999,158.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,98,119.7428139
+CUSR0000SA0L2,01-03-1999,158.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,99,119.8184569
+CUSR0000SA0L2,01-04-1999,159.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,100,120.7261725
+CUSR0000SA0L2,01-05-1999,159.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,101,120.7261725
+CUSR0000SA0L2,01-06-1999,159.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,102,120.7261725
+CUSR0000SA0L2,01-07-1999,160.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,103,121.2556732
+CUSR0000SA0L2,01-08-1999,160.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,104,121.5582451
+CUSR0000SA0L2,01-09-1999,161.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,105,122.1633888
+CUSR0000SA0L2,01-10-1999,161.9,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,106,122.4659607
+CUSR0000SA0L2,01-11-1999,162,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,107,122.5416036
+CUSR0000SA0L2,01-12-1999,162.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,108,122.9198185
+CUSR0000SA0L2,01-01-2000,162.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,109,123.1467474
+CUSR0000SA0L2,01-02-2000,163.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,110,123.7518911
+CUSR0000SA0L2,01-03-2000,164.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,111,124.5839637
+CUSR0000SA0L2,01-04-2000,164.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,112,124.4326778
+CUSR0000SA0L2,01-05-2000,164.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,113,124.5839637
+CUSR0000SA0L2,01-06-2000,165.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,114,125.4160363
+CUSR0000SA0L2,01-07-2000,166.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,115,125.7942511
+CUSR0000SA0L2,01-08-2000,166.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,116,125.6429652
+CUSR0000SA0L2,01-09-2000,167.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,117,126.4750378
+CUSR0000SA0L2,01-10-2000,167.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,118,126.5506808
+CUSR0000SA0L2,01-11-2000,167.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,119,126.7776097
+CUSR0000SA0L2,01-12-2000,168,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,120,127.0801815
+CUSR0000SA0L2,01-01-2001,169.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,121,127.9122542
+CUSR0000SA0L2,01-02-2001,169.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,122,128.1391831
+CUSR0000SA0L2,01-03-2001,169.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,123,127.9878971
+CUSR0000SA0L2,01-04-2001,169.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,124,128.290469
+CUSR0000SA0L2,01-05-2001,170.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,125,128.9712557
+CUSR0000SA0L2,01-06-2001,170.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,126,129.1225416
+CUSR0000SA0L2,01-07-2001,170.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,127,128.6686838
+CUSR0000SA0L2,01-08-2001,169.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,128,128.4417549
+CUSR0000SA0L2,01-09-2001,170.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,129,129.0468986
+CUSR0000SA0L2,01-10-2001,169.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,130,128.366112
+CUSR0000SA0L2,01-11-2001,169.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,131,127.9878971
+CUSR0000SA0L2,01-12-2001,168.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,132,127.6853253
+CUSR0000SA0L2,01-01-2002,168.9,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,133,127.7609682
+CUSR0000SA0L2,01-02-2002,169,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,134,127.8366112
+CUSR0000SA0L2,01-03-2002,169.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,135,128.290469
+CUSR0000SA0L2,01-04-2002,170.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,136,128.9712557
+CUSR0000SA0L2,01-05-2002,170.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,137,128.9712557
+CUSR0000SA0L2,01-06-2002,170.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,138,129.0468986
+CUSR0000SA0L2,01-07-2002,171,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,139,129.3494705
+CUSR0000SA0L2,01-08-2002,171.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,140,129.6520424
+CUSR0000SA0L2,01-09-2002,171.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,141,129.8033283
+CUSR0000SA0L2,01-10-2002,172,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,142,130.1059002
+CUSR0000SA0L2,01-11-2002,172.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,143,130.2571861
+CUSR0000SA0L2,01-12-2002,172.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,144,130.408472
+CUSR0000SA0L2,01-01-2003,173.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,145,131.0892587
+CUSR0000SA0L2,01-02-2003,174.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,146,132.0726172
+CUSR0000SA0L2,01-03-2003,175.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,147,132.4508321
+CUSR0000SA0L2,01-04-2003,174.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,148,131.6944024
+CUSR0000SA0L2,01-05-2003,173.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,149,131.0136157
+CUSR0000SA0L2,01-06-2003,173.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,150,131.3161876
+CUSR0000SA0L2,01-07-2003,174.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,151,131.6944024
+CUSR0000SA0L2,01-08-2003,175.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,152,132.4508321
+CUSR0000SA0L2,01-09-2003,175.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,153,132.9803328
+CUSR0000SA0L2,01-10-2003,175.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,154,132.602118
+CUSR0000SA0L2,01-11-2003,175.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,155,132.602118
+CUSR0000SA0L2,01-12-2003,175.8,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,156,132.9803328
+CUSR0000SA0L2,01-01-2004,176.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,157,133.6611195
+CUSR0000SA0L2,01-02-2004,177.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,158,134.1906203
+CUSR0000SA0L2,01-03-2004,177.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,159,134.3419062
+CUSR0000SA0L2,01-04-2004,177.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,160,134.2662632
+CUSR0000SA0L2,01-05-2004,178.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,161,135.0226929
+CUSR0000SA0L2,01-06-2004,179.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,162,135.5521936
+CUSR0000SA0L2,01-07-2004,179.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,163,135.6278366
+CUSR0000SA0L2,01-08-2004,179.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,164,135.7034796
+CUSR0000SA0L2,01-09-2004,179.9,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,165,136.0816944
+CUSR0000SA0L2,01-10-2004,181.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,166,137.065053
+CUSR0000SA0L2,01-11-2004,182.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,167,137.9727685
+CUSR0000SA0L2,01-12-2004,182.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,168,137.8971256
+CUSR0000SA0L2,01-01-2005,182,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,169,137.6701967
+CUSR0000SA0L2,01-02-2005,182.7,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,170,138.1996974
+CUSR0000SA0L2,01-03-2005,183.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,171,138.5779123
+CUSR0000SA0L2,01-04-2005,184.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,172,139.2586989
+CUSR0000SA0L2,01-05-2005,184,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,173,139.183056
+CUSR0000SA0L2,01-06-2005,184,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,174,139.183056
+CUSR0000SA0L2,01-07-2005,185.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,175,140.3177005
+CUSR0000SA0L2,01-08-2005,187.1,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,176,141.5279879
+CUSR0000SA0L2,01-09-2005,191,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,177,144.4780635
+CUSR0000SA0L2,01-10-2005,190.9,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,178,144.4024206
+CUSR0000SA0L2,01-11-2005,189.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,179,143.1921331
+CUSR0000SA0L2,01-12-2005,189,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,180,142.9652042
+CUSR0000SA0L2,01-01-2006,190.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,181,144.0998487
+CUSR0000SA0L2,01-02-2006,190.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,182,143.9485628
+CUSR0000SA0L2,01-03-2006,190.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,183,144.0242057
+CUSR0000SA0L2,01-04-2006,191.5,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,184,144.8562784
+CUSR0000SA0L2,01-05-2006,192,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,185,145.2344932
+CUSR0000SA0L2,01-06-2006,192.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,186,145.4614221
+CUSR0000SA0L2,01-07-2006,193.6,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,187,146.4447806
+CUSR0000SA0L2,01-08-2006,194.4,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,188,147.0499244
+CUSR0000SA0L2,01-09-2006,192.9,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,189,145.9152799
+CUSR0000SA0L2,01-10-2006,191.2,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,190,144.6293495
+CUSR0000SA0L2,01-11-2006,191,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,191,144.4780635
+CUSR0000SA0L2,01-12-2006,192.3,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,192,145.4614221
+CUSR0000SA0L2,01-01-2007,192.469,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,193,145.5892587
+CUSR0000SA0L2,01-02-2007,193.242,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,194,146.1739788
+CUSR0000SA0L2,01-03-2007,194.566,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,195,147.1754917
+CUSR0000SA0L2,01-04-2007,195.195,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,196,147.6512859
+CUSR0000SA0L2,01-05-2007,196.197,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,197,148.4092284
+CUSR0000SA0L2,01-06-2007,196.592,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,198,148.7080182
+CUSR0000SA0L2,01-07-2007,196.913,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,199,148.9508321
+CUSR0000SA0L2,01-08-2007,196.763,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,200,148.8373676
+CUSR0000SA0L2,01-09-2007,197.77,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,201,149.5990923
+CUSR0000SA0L2,01-10-2007,198.459,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,202,150.1202723
+CUSR0000SA0L2,01-11-2007,200.487,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,203,151.6543116
+CUSR0000SA0L2,01-12-2007,201.081,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,204,152.1036309
+CUSR0000SA0L2,01-01-2008,201.876,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,205,152.7049924
+CUSR0000SA0L2,01-02-2008,202.455,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,206,153.1429652
+CUSR0000SA0L2,01-03-2008,203.238,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,207,153.7352496
+CUSR0000SA0L2,01-04-2008,203.954,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,208,154.2768533
+CUSR0000SA0L2,01-05-2008,205.624,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,209,155.5400908
+CUSR0000SA0L2,01-06-2008,208.604,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,210,157.7942511
+CUSR0000SA0L2,01-07-2008,210.612,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,211,159.3131619
+CUSR0000SA0L2,01-08-2008,210.016,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,212,158.8623298
+CUSR0000SA0L2,01-09-2008,210.075,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,213,158.9069592
+CUSR0000SA0L2,01-10-2008,207.31,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,214,156.8154312
+CUSR0000SA0L2,01-11-2008,201.695,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,215,152.5680787
+CUSR0000SA0L2,01-12-2008,199.21,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,216,150.688351
+CUSR0000SA0L2,01-01-2009,199.784,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,217,151.1225416
+CUSR0000SA0L2,01-02-2009,200.822,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,218,151.9077156
+CUSR0000SA0L2,01-03-2009,200.418,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,219,151.602118
+CUSR0000SA0L2,01-04-2009,200.633,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,220,151.7647504
+CUSR0000SA0L2,01-05-2009,201.048,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,221,152.0786687
+CUSR0000SA0L2,01-06-2009,203.603,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,222,154.0113464
+CUSR0000SA0L2,01-07-2009,203.65,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,223,154.0468986
+CUSR0000SA0L2,01-08-2009,204.516,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,224,154.7019667
+CUSR0000SA0L2,01-09-2009,205.145,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,225,155.177761
+CUSR0000SA0L2,01-10-2009,205.968,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,226,155.8003026
+CUSR0000SA0L2,01-11-2009,207.163,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,227,156.704236
+CUSR0000SA0L2,01-12-2009,207.32,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,228,156.8229955
+CUSR0000SA0L2,01-01-2010,207.987,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,229,157.327534
+CUSR0000SA0L2,01-02-2010,207.71,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,230,157.118003
+CUSR0000SA0L2,01-03-2010,207.844,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,231,157.2193646
+CUSR0000SA0L2,01-04-2010,207.896,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,232,157.2586989
+CUSR0000SA0L2,01-05-2010,207.671,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,233,157.0885023
+CUSR0000SA0L2,01-06-2010,207.476,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,234,156.9409985
+CUSR0000SA0L2,01-07-2010,207.995,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,235,157.3335855
+CUSR0000SA0L2,01-08-2010,208.442,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,236,157.6717095
+CUSR0000SA0L2,01-09-2010,208.883,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,237,158.005295
+CUSR0000SA0L2,01-10-2010,209.904,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,238,158.7776097
+CUSR0000SA0L2,01-11-2010,210.567,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,239,159.2791225
+CUSR0000SA0L2,01-12-2010,211.693,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,240,160.1308623
+CUSR0000SA0L2,01-01-2011,212.567,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,241,160.7919818
+CUSR0000SA0L2,01-02-2011,213.448,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,242,161.4583964
+CUSR0000SA0L2,01-03-2011,214.971,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,243,162.6104387
+CUSR0000SA0L2,01-04-2011,216.345,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,244,163.6497731
+CUSR0000SA0L2,01-05-2011,217.25,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,245,164.3343419
+CUSR0000SA0L2,01-06-2011,217.046,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,246,164.1800303
+CUSR0000SA0L2,01-07-2011,217.614,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,247,164.6096823
+CUSR0000SA0L2,01-08-2011,218.42,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,248,165.2193646
+CUSR0000SA0L2,01-09-2011,218.977,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,249,165.6406959
+CUSR0000SA0L2,01-10-2011,218.988,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,250,165.6490166
+CUSR0000SA0L2,01-11-2011,219.406,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,251,165.9652042
+CUSR0000SA0L2,01-12-2011,219.272,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,252,165.8638427
+CUSR0000SA0L2,01-01-2012,219.997,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,253,166.4122542
+CUSR0000SA0L2,01-02-2012,220.509,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,254,166.7995461
+CUSR0000SA0L2,01-03-2012,220.975,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,255,167.1520424
+CUSR0000SA0L2,01-04-2012,221.28,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,256,167.3827534
+CUSR0000SA0L2,01-05-2012,220.457,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,257,166.7602118
+CUSR0000SA0L2,01-06-2012,220.049,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,258,166.4515885
+CUSR0000SA0L2,01-07-2012,220.007,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,259,166.4198185
+CUSR0000SA0L2,01-08-2012,221.68,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,260,167.6853253
+CUSR0000SA0L2,01-09-2012,222.992,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,261,168.677761
+CUSR0000SA0L2,01-10-2012,223.637,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,262,169.1656581
+CUSR0000SA0L2,01-11-2012,222.933,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,263,168.6331316
+CUSR0000SA0L2,01-12-2012,222.724,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,264,168.4750378
+CUSR0000SA0L2,01-01-2013,223.172,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,265,168.8139183
+CUSR0000SA0L2,01-02-2013,224.713,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,266,169.9795764
+CUSR0000SA0L2,01-03-2013,223.612,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,267,169.1467474
+CUSR0000SA0L2,01-04-2013,222.732,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,268,168.4810893
+CUSR0000SA0L2,01-05-2013,222.636,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,269,168.408472
+CUSR0000SA0L2,01-06-2013,223.201,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,270,168.8358548
+CUSR0000SA0L2,01-07-2013,223.667,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,271,169.188351
+CUSR0000SA0L2,01-08-2013,224.204,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,272,169.5945537
+CUSR0000SA0L2,01-09-2013,224.147,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,273,169.5514372
+CUSR0000SA0L2,01-10-2013,224.179,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,274,169.575643
+CUSR0000SA0L2,01-11-2013,224.465,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,275,169.7919818
+CUSR0000SA0L2,01-12-2013,225.046,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,276,170.2314675
+CUSR0000SA0L2,01-01-2014,225.585,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,277,170.6391831
+CUSR0000SA0L2,01-02-2014,225.716,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,278,170.7382753
+CUSR0000SA0L2,01-03-2014,226.075,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,279,171.0098336
+CUSR0000SA0L2,01-04-2014,226.443,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,280,171.2881997
+CUSR0000SA0L2,01-05-2014,226.763,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,281,171.5302572
+CUSR0000SA0L2,01-06-2014,227.032,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,282,171.7337368
+CUSR0000SA0L2,01-07-2014,227.114,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,283,171.795764
+CUSR0000SA0L2,01-08-2014,226.823,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,284,171.575643
+CUSR0000SA0L2,01-09-2014,226.601,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,285,171.4077156
+CUSR0000SA0L2,01-10-2014,226.293,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,286,171.1747352
+CUSR0000SA0L2,01-11-2014,225.385,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,287,170.4878971
+CUSR0000SA0L2,01-12-2014,224.135,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,288,169.5423601
+CUSR0000SA0L2,01-01-2015,221.716,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,289,167.7125567
+CUSR0000SA0L2,01-02-2015,222.274,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,290,168.1346445
+CUSR0000SA0L2,01-03-2015,222.854,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,291,168.5733737
+CUSR0000SA0L2,01-04-2015,222.906,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,292,168.612708
+CUSR0000SA0L2,01-05-2015,223.796,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,293,169.2859304
+CUSR0000SA0L2,01-06-2015,224.418,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,294,169.7564297
+CUSR0000SA0L2,01-07-2015,224.536,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,295,169.8456884
+CUSR0000SA0L2,01-08-2015,224.301,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,296,169.6679274
+CUSR0000SA0L2,01-09-2015,223.226,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,297,168.8547655
+CUSR0000SA0L2,01-10-2015,223.283,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,298,168.897882
+CUSR0000SA0L2,01-11-2015,223.407,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,299,168.9916793
+CUSR0000SA0L2,01-12-2015,222.79,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,300,168.5249622
+CUSR0000SA0L2,01-01-2016,222.267,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,301,168.1293495
+CUSR0000SA0L2,01-02-2016,221.518,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,302,167.5627837
+CUSR0000SA0L2,01-03-2016,222.319,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,303,168.1686838
+CUSR0000SA0L2,01-04-2016,223.31,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,304,168.9183056
+CUSR0000SA0L2,01-05-2016,223.712,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,305,169.2223903
+CUSR0000SA0L2,01-06-2016,224.268,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,306,169.6429652
+CUSR0000SA0L2,01-07-2016,223.825,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,307,169.3078669
+CUSR0000SA0L2,01-08-2016,224.119,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,308,169.5302572
+CUSR0000SA0L2,01-09-2016,224.612,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,309,169.903177
+CUSR0000SA0L2,01-10-2016,225.01,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,310,170.204236
+CUSR0000SA0L2,01-11-2016,225.079,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,311,170.2564297
+CUSR0000SA0L2,01-12-2016,225.608,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,312,170.6565809
+CUSR0000SA0L2,01-01-2017,226.707,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,313,171.4878971
+CUSR0000SA0L2,01-02-2017,226.779,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,314,171.5423601
+CUSR0000SA0L2,01-03-2017,226.446,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,315,171.290469
+CUSR0000SA0L2,01-04-2017,226.872,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,316,171.612708
+CUSR0000SA0L2,01-05-2017,226.31,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,317,171.1875946
+CUSR0000SA0L2,01-06-2017,226.209,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,318,171.1111952
+CUSR0000SA0L2,01-07-2017,226.111,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,319,171.0370651
+CUSR0000SA0L2,01-08-2017,226.927,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,320,171.6543116
+CUSR0000SA0L2,01-09-2017,228.485,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,321,172.832829
+CUSR0000SA0L2,01-10-2017,228.211,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,322,172.6255673
+CUSR0000SA0L2,01-11-2017,228.975,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,323,173.2034796
+CUSR0000SA0L2,01-12-2017,229.104,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,324,173.301059
+CUSR0000SA0L2,01-01-2018,230.164,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,325,174.1028744
+CUSR0000SA0L2,01-02-2018,230.764,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,326,174.5567322
+CUSR0000SA0L2,01-03-2018,230.672,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,327,174.4871407
+CUSR0000SA0L2,01-04-2018,231.371,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,328,175.015885
+CUSR0000SA0L2,01-05-2018,231.681,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,329,175.2503782
+CUSR0000SA0L2,01-06-2018,232.007,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,330,175.4969743
+CUSR0000SA0L2,01-07-2018,231.964,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,331,175.4644478
+CUSR0000SA0L2,01-08-2018,232.155,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,332,175.6089259
+CUSR0000SA0L2,01-09-2018,232.562,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,333,175.9167927
+CUSR0000SA0L2,01-10-2018,233.233,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,334,176.424357
+CUSR0000SA0L2,01-11-2018,232.802,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,335,176.0983359
+CUSR0000SA0L2,01-12-2018,232.028,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,336,175.5128593
+CUSR0000SA0L2,01-01-2019,231.678,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,337,175.2481089
+CUSR0000SA0L2,01-02-2019,232.041,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,338,175.5226929
+CUSR0000SA0L2,01-03-2019,233.249,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,339,176.4364599
+CUSR0000SA0L2,01-04-2019,234.426,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,340,177.3267776
+CUSR0000SA0L2,01-05-2019,234.197,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,341,177.1535552
+CUSR0000SA0L2,01-06-2019,233.902,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,342,176.9304085
+CUSR0000SA0L2,01-07-2019,234.311,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,343,177.2397882
+CUSR0000SA0L2,01-08-2019,234.362,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,344,177.2783661
+CUSR0000SA0L2,01-09-2019,234.544,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,345,177.4160363
+CUSR0000SA0L2,01-10-2019,235.564,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,346,178.1875946
+CUSR0000SA0L2,01-11-2019,236.091,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,347,178.586233
+CUSR0000SA0L2,01-12-2019,236.152,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,348,178.6323752
+CUSR0000SA0L2,01-01-2020,236.433,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,349,178.8449319
+CUSR0000SA0L2,01-02-2020,236.269,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,350,178.7208775
+CUSR0000SA0L2,01-03-2020,235.053,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,351,177.801059
+CUSR0000SA0L2,01-04-2020,232.593,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,352,175.9402421
+CUSR0000SA0L2,01-05-2020,232.019,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,353,175.5060514
+CUSR0000SA0L2,01-06-2020,233.688,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,354,176.7685325
+CUSR0000SA0L2,01-07-2020,235.256,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,355,177.9546142
+CUSR0000SA0L2,01-08-2020,236.339,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,356,178.7738275
+CUSR0000SA0L2,01-09-2020,237.111,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,357,179.3577912
+CUSR0000SA0L2,01-10-2020,237.398,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,358,179.5748865
+CUSR0000SA0L2,01-11-2020,237.871,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,359,179.9326778
+CUSR0000SA0L2,01-12-2020,238.59,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,360,180.4765507
+CUSR0000SA0L2,01-01-2021,239.408,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,361,181.0953101
+CUSR0000SA0L2,01-02-2021,240.481,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,362,181.9069592
+CUSR0000SA0L2,01-03-2021,242.352,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,363,183.322239
+CUSR0000SA0L2,01-04-2021,244.66,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,364,185.0680787
+CUSR0000SA0L2,01-05-2021,246.655,cpi.less.shelter,CPI-U All items less shelter,U.S. Bureau of Labor Statistics,365,186.5771558
+CUUR0000SEHA,01-01-1991,141.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,1,100
+CUUR0000SEHA,01-02-1991,141.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,2,100.2124646
+CUUR0000SEHA,01-03-1991,142,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,3,100.5665722
+CUUR0000SEHA,01-04-1991,142.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,4,100.9206799
+CUUR0000SEHA,01-05-1991,142.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,5,101.1331445
+CUUR0000SEHA,01-06-1991,143,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,6,101.2747875
+CUUR0000SEHA,01-07-1991,143.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,7,101.7705382
+CUUR0000SEHA,01-08-1991,143.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,8,101.7705382
+CUUR0000SEHA,01-09-1991,144.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,9,102.407932
+CUUR0000SEHA,01-10-1991,144.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,10,102.407932
+CUUR0000SEHA,01-11-1991,145,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,11,102.6912181
+CUUR0000SEHA,01-12-1991,145.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,12,102.8328612
+CUUR0000SEHA,01-01-1992,145.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,13,102.9745042
+CUUR0000SEHA,01-02-1992,145.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,14,103.1161473
+CUUR0000SEHA,01-03-1992,146.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,15,103.6827195
+CUUR0000SEHA,01-04-1992,146.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,16,103.5410765
+CUUR0000SEHA,01-05-1992,146.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,17,103.611898
+CUUR0000SEHA,01-06-1992,146.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,18,103.8243626
+CUUR0000SEHA,01-07-1992,147,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,19,104.1076487
+CUUR0000SEHA,01-08-1992,147,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,20,104.1076487
+CUUR0000SEHA,01-09-1992,147.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,21,104.2492918
+CUUR0000SEHA,01-10-1992,148,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,22,104.815864
+CUUR0000SEHA,01-11-1992,148.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,23,105.2407932
+CUUR0000SEHA,01-12-1992,148.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,24,105.2407932
+CUUR0000SEHA,01-01-1993,148.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,25,105.4532578
+CUUR0000SEHA,01-02-1993,149.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,26,105.5949008
+CUUR0000SEHA,01-03-1993,149.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,27,105.5949008
+CUUR0000SEHA,01-04-1993,149.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,28,106.01983
+CUUR0000SEHA,01-05-1993,149.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,29,106.1614731
+CUUR0000SEHA,01-06-1993,150.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,30,106.4447592
+CUUR0000SEHA,01-07-1993,150.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,31,106.5155807
+CUUR0000SEHA,01-08-1993,150.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,32,106.7988669
+CUUR0000SEHA,01-09-1993,151,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,33,106.9405099
+CUUR0000SEHA,01-10-1993,151.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,34,107.223796
+CUUR0000SEHA,01-11-1993,151.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,35,107.3654391
+CUUR0000SEHA,01-12-1993,151.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,36,107.5779037
+CUUR0000SEHA,01-01-1994,152.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,37,107.7903683
+CUUR0000SEHA,01-02-1994,152.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,38,108.2152975
+CUUR0000SEHA,01-03-1994,153.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,39,108.4985836
+CUUR0000SEHA,01-04-1994,153.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,40,108.5694051
+CUUR0000SEHA,01-05-1994,153.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,41,108.5694051
+CUUR0000SEHA,01-06-1994,153.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,42,108.6402266
+CUUR0000SEHA,01-07-1994,153.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,43,108.9943343
+CUUR0000SEHA,01-08-1994,154.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,44,109.4192635
+CUUR0000SEHA,01-09-1994,155,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,45,109.7733711
+CUUR0000SEHA,01-10-1994,155.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,46,109.9150142
+CUUR0000SEHA,01-11-1994,155.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,47,110.1983003
+CUUR0000SEHA,01-12-1994,155.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,48,110.2691218
+CUUR0000SEHA,01-01-1995,156.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,49,110.5524079
+CUUR0000SEHA,01-02-1995,156.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,50,110.7648725
+CUUR0000SEHA,01-03-1995,156.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,51,110.9773371
+CUUR0000SEHA,01-04-1995,157,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,52,111.1898017
+CUUR0000SEHA,01-05-1995,157.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,53,111.3314448
+CUUR0000SEHA,01-06-1995,157.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,54,111.5439093
+CUUR0000SEHA,01-07-1995,157.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,55,111.8271955
+CUUR0000SEHA,01-08-1995,158.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,56,112.0396601
+CUUR0000SEHA,01-09-1995,158.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,57,112.2521246
+CUUR0000SEHA,01-10-1995,158.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,58,112.5354108
+CUUR0000SEHA,01-11-1995,159.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,59,112.8186969
+CUUR0000SEHA,01-12-1995,159.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,60,113.0311615
+CUUR0000SEHA,01-01-1996,160,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,61,113.3144476
+CUUR0000SEHA,01-02-1996,160.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,62,113.5977337
+CUUR0000SEHA,01-03-1996,160.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,63,113.7393768
+CUUR0000SEHA,01-04-1996,160.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,64,113.9518414
+CUUR0000SEHA,01-05-1996,161.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,65,114.1643059
+CUUR0000SEHA,01-06-1996,161.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,66,114.5184136
+CUUR0000SEHA,01-07-1996,162.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,67,114.8725212
+CUUR0000SEHA,01-08-1996,162.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,68,115.0849858
+CUUR0000SEHA,01-09-1996,162.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,69,115.368272
+CUUR0000SEHA,01-10-1996,163.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,70,115.6515581
+CUUR0000SEHA,01-11-1996,163.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,71,115.9348442
+CUUR0000SEHA,01-12-1996,164,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,72,116.1473088
+CUUR0000SEHA,01-01-1997,164.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,73,116.4305949
+CUUR0000SEHA,01-02-1997,164.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,74,116.713881
+CUUR0000SEHA,01-03-1997,165.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,75,116.9263456
+CUUR0000SEHA,01-04-1997,165.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,76,117.2096317
+CUUR0000SEHA,01-05-1997,165.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,77,117.4929178
+CUUR0000SEHA,01-06-1997,166.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,78,117.8470255
+CUUR0000SEHA,01-07-1997,166.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,79,118.1303116
+CUUR0000SEHA,01-08-1997,167.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,80,118.4844193
+CUUR0000SEHA,01-09-1997,167.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,81,118.8385269
+CUUR0000SEHA,01-10-1997,168.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,82,119.121813
+CUUR0000SEHA,01-11-1997,168.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,83,119.4759207
+CUUR0000SEHA,01-12-1997,169.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,84,119.7592068
+CUUR0000SEHA,01-01-1998,169.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,85,120.0424929
+CUUR0000SEHA,01-02-1998,169.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,86,120.325779
+CUUR0000SEHA,01-03-1998,170.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,87,120.6090652
+CUUR0000SEHA,01-04-1998,170.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,88,120.8923513
+CUUR0000SEHA,01-05-1998,171.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,89,121.1756374
+CUUR0000SEHA,01-06-1998,171.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,90,121.6005666
+CUUR0000SEHA,01-07-1998,172.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,91,121.9546742
+CUUR0000SEHA,01-08-1998,172.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,92,122.3796034
+CUUR0000SEHA,01-09-1998,173.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,93,122.8045326
+CUUR0000SEHA,01-10-1998,173.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,94,123.1586402
+CUUR0000SEHA,01-11-1998,174.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,95,123.5835694
+CUUR0000SEHA,01-12-1998,174.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,96,123.8668555
+CUUR0000SEHA,01-01-1999,175.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,97,124.1501416
+CUUR0000SEHA,01-02-1999,175.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,98,124.3626062
+CUUR0000SEHA,01-03-1999,176,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,99,124.6458924
+CUUR0000SEHA,01-04-1999,176.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,100,124.9291785
+CUUR0000SEHA,01-05-1999,176.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,101,125.1416431
+CUUR0000SEHA,01-06-1999,177.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,102,125.4249292
+CUUR0000SEHA,01-07-1999,177.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,103,125.7082153
+CUUR0000SEHA,01-08-1999,177.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,104,125.9915014
+CUUR0000SEHA,01-09-1999,178.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,105,126.3456091
+CUUR0000SEHA,01-10-1999,178.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,106,126.6288952
+CUUR0000SEHA,01-11-1999,179.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,107,127.3371105
+CUUR0000SEHA,01-12-1999,180.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,108,127.6912181
+CUUR0000SEHA,01-01-2000,181.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,109,128.2577904
+CUUR0000SEHA,01-02-2000,181.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,110,128.5410765
+CUUR0000SEHA,01-03-2000,182,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,111,128.8951841
+CUUR0000SEHA,01-04-2000,182.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,112,129.1076487
+CUUR0000SEHA,01-05-2000,182.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,113,129.3909348
+CUUR0000SEHA,01-06-2000,183.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,114,129.7450425
+CUUR0000SEHA,01-07-2000,183.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,115,130.2407932
+CUUR0000SEHA,01-08-2000,184.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,116,130.7365439
+CUUR0000SEHA,01-09-2000,185.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,117,131.2322946
+CUUR0000SEHA,01-10-2000,186.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,118,131.7988669
+CUUR0000SEHA,01-11-2000,186.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,119,132.2946176
+CUUR0000SEHA,01-12-2000,187.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,120,132.8611898
+CUUR0000SEHA,01-01-2001,188.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,121,133.286119
+CUUR0000SEHA,01-02-2001,188.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,122,133.7818697
+CUUR0000SEHA,01-03-2001,189.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,123,134.2776204
+CUUR0000SEHA,01-04-2001,190.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,124,134.7025496
+CUUR0000SEHA,01-05-2001,191,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,125,135.2691218
+CUUR0000SEHA,01-06-2001,191.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,126,135.694051
+CUUR0000SEHA,01-07-2001,192.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,127,136.1898017
+CUUR0000SEHA,01-08-2001,193.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,128,136.7563739
+CUUR0000SEHA,01-09-2001,193.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,129,137.3229462
+CUUR0000SEHA,01-10-2001,194.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,130,137.8895184
+CUUR0000SEHA,01-11-2001,195.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,131,138.4560907
+CUUR0000SEHA,01-12-2001,196.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,132,139.0934844
+CUUR0000SEHA,01-01-2002,197,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,133,139.5184136
+CUUR0000SEHA,01-02-2002,197.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,134,140.0141643
+CUUR0000SEHA,01-03-2002,198.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,135,140.368272
+CUUR0000SEHA,01-04-2002,198.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,136,140.5807365
+CUUR0000SEHA,01-05-2002,198.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,137,140.7932011
+CUUR0000SEHA,01-06-2002,199.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,138,141.1473088
+CUUR0000SEHA,01-07-2002,199.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,139,141.5014164
+CUUR0000SEHA,01-08-2002,200.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,140,141.7847025
+CUUR0000SEHA,01-09-2002,200.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,141,142.1388102
+CUUR0000SEHA,01-10-2002,201.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,142,142.5637394
+CUUR0000SEHA,01-11-2002,202,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,143,143.0594901
+CUUR0000SEHA,01-12-2002,202.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,144,143.4135977
+CUUR0000SEHA,01-01-2003,203.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,145,143.98017
+CUUR0000SEHA,01-02-2003,203.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,146,144.2634561
+CUUR0000SEHA,01-03-2003,204.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,147,144.5467422
+CUUR0000SEHA,01-04-2003,204.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,148,144.8300283
+CUUR0000SEHA,01-05-2003,204.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,149,145.1133144
+CUUR0000SEHA,01-06-2003,205.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,150,145.2549575
+CUUR0000SEHA,01-07-2003,205.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,151,145.6090652
+CUUR0000SEHA,01-08-2003,206.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,152,145.9631728
+CUUR0000SEHA,01-09-2003,206.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,153,146.3172805
+CUUR0000SEHA,01-10-2003,206.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,154,146.529745
+CUUR0000SEHA,01-11-2003,207.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,155,146.9546742
+CUUR0000SEHA,01-12-2003,207.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,156,147.2379603
+CUUR0000SEHA,01-01-2004,208.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,157,147.5212465
+CUUR0000SEHA,01-02-2004,208.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,158,147.8753541
+CUUR0000SEHA,01-03-2004,209.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,159,148.1586402
+CUUR0000SEHA,01-04-2004,209.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,160,148.5127479
+CUUR0000SEHA,01-05-2004,210.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,161,148.8668555
+CUUR0000SEHA,01-06-2004,210.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,162,149.2209632
+CUUR0000SEHA,01-07-2004,211.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,163,149.5750708
+CUUR0000SEHA,01-08-2004,211.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,164,150.0708215
+CUUR0000SEHA,01-09-2004,212.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,165,150.4249292
+CUUR0000SEHA,01-10-2004,212.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,166,150.7082153
+CUUR0000SEHA,01-11-2004,213.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,167,150.9915014
+CUUR0000SEHA,01-12-2004,213.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,168,151.4872521
+CUUR0000SEHA,01-01-2005,214.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,169,151.9121813
+CUUR0000SEHA,01-02-2005,215,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,170,152.266289
+CUUR0000SEHA,01-03-2005,215.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,171,152.6203966
+CUUR0000SEHA,01-04-2005,216,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,172,152.9745042
+CUUR0000SEHA,01-05-2005,216.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,173,153.2577904
+CUUR0000SEHA,01-06-2005,216.8,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,174,153.5410765
+CUUR0000SEHA,01-07-2005,217.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,175,154.0368272
+CUUR0000SEHA,01-08-2005,218,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,176,154.3909348
+CUUR0000SEHA,01-09-2005,218.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,177,154.815864
+CUUR0000SEHA,01-10-2005,219.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,178,155.3116147
+CUUR0000SEHA,01-11-2005,220,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,179,155.8073654
+CUUR0000SEHA,01-12-2005,220.5,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,180,156.1614731
+CUUR0000SEHA,01-01-2006,220.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,181,156.4447592
+CUUR0000SEHA,01-02-2006,221.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,182,156.9405099
+CUUR0000SEHA,01-03-2006,222.3,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,183,157.4362606
+CUUR0000SEHA,01-04-2006,222.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,184,157.8611898
+CUUR0000SEHA,01-05-2006,223.6,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,185,158.3569405
+CUUR0000SEHA,01-06-2006,224.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,186,158.9235127
+CUUR0000SEHA,01-07-2006,225.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,187,159.490085
+CUUR0000SEHA,01-08-2006,226.2,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,188,160.1983003
+CUUR0000SEHA,01-09-2006,227.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,189,160.8356941
+CUUR0000SEHA,01-10-2006,228,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,190,161.4730878
+CUUR0000SEHA,01-11-2006,228.9,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,191,162.1104816
+CUUR0000SEHA,01-12-2006,230,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,192,162.8895184
+CUUR0000SEHA,01-01-2007,230.806,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,193,163.4603399
+CUUR0000SEHA,01-02-2007,231.739,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,194,164.1211048
+CUUR0000SEHA,01-03-2007,232.495,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,195,164.6565156
+CUUR0000SEHA,01-04-2007,232.98,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,196,165
+CUUR0000SEHA,01-05-2007,233.549,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,197,165.4029745
+CUUR0000SEHA,01-06-2007,234.071,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,198,165.7726629
+CUUR0000SEHA,01-07-2007,234.732,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,199,166.2407932
+CUUR0000SEHA,01-08-2007,235.311,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,200,166.6508499
+CUUR0000SEHA,01-09-2007,236.058,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,201,167.1798867
+CUUR0000SEHA,01-10-2007,237.135,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,202,167.9426346
+CUUR0000SEHA,01-11-2007,238.169,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,203,168.6749292
+CUUR0000SEHA,01-12-2007,239.102,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,204,169.3356941
+CUUR0000SEHA,01-01-2008,239.85,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,205,169.8654391
+CUUR0000SEHA,01-02-2008,240.325,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,206,170.2018414
+CUUR0000SEHA,01-03-2008,240.874,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,207,170.5906516
+CUUR0000SEHA,01-04-2008,241.474,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,208,171.0155807
+CUUR0000SEHA,01-05-2008,241.803,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,209,171.2485836
+CUUR0000SEHA,01-06-2008,242.64,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,210,171.8413598
+CUUR0000SEHA,01-07-2008,243.367,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,211,172.3562323
+CUUR0000SEHA,01-08-2008,244.181,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,212,172.9327195
+CUUR0000SEHA,01-09-2008,244.926,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,213,173.4603399
+CUUR0000SEHA,01-10-2008,245.855,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,214,174.118272
+CUUR0000SEHA,01-11-2008,246.681,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,215,174.7032578
+CUUR0000SEHA,01-12-2008,247.278,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,216,175.1260623
+CUUR0000SEHA,01-01-2009,247.974,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,217,175.6189802
+CUUR0000SEHA,01-02-2009,248.305,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,218,175.8533994
+CUUR0000SEHA,01-03-2009,248.639,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,219,176.0899433
+CUUR0000SEHA,01-04-2009,248.899,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,220,176.2740793
+CUUR0000SEHA,01-05-2009,249.069,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,221,176.3944759
+CUUR0000SEHA,01-06-2009,249.092,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,222,176.4107649
+CUUR0000SEHA,01-07-2009,248.994,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,223,176.3413598
+CUUR0000SEHA,01-08-2009,249.029,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,224,176.3661473
+CUUR0000SEHA,01-09-2009,248.965,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,225,176.3208215
+CUUR0000SEHA,01-10-2009,248.888,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,226,176.266289
+CUUR0000SEHA,01-11-2009,248.886,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,227,176.2648725
+CUUR0000SEHA,01-12-2009,248.999,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,228,176.3449008
+CUUR0000SEHA,01-01-2010,249.144,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,229,176.4475921
+CUUR0000SEHA,01-02-2010,249.017,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,230,176.3576487
+CUUR0000SEHA,01-03-2010,249.089,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,231,176.4086402
+CUUR0000SEHA,01-04-2010,249.012,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,232,176.3541076
+CUUR0000SEHA,01-05-2010,248.925,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,233,176.2924929
+CUUR0000SEHA,01-06-2010,248.999,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,234,176.3449008
+CUUR0000SEHA,01-07-2010,249.126,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,235,176.4348442
+CUUR0000SEHA,01-08-2010,249.024,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,236,176.3626062
+CUUR0000SEHA,01-09-2010,249.368,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,237,176.6062323
+CUUR0000SEHA,01-10-2010,249.618,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,238,176.7832861
+CUUR0000SEHA,01-11-2010,250.317,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,239,177.2783286
+CUUR0000SEHA,01-12-2010,250.986,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,240,177.7521246
+CUUR0000SEHA,01-01-2011,251.555,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,241,178.1550992
+CUUR0000SEHA,01-02-2011,251.829,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,242,178.3491501
+CUUR0000SEHA,01-03-2011,252.145,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,243,178.5729462
+CUUR0000SEHA,01-04-2011,252.221,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,244,178.6267705
+CUUR0000SEHA,01-05-2011,252.393,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,245,178.7485836
+CUUR0000SEHA,01-06-2011,252.592,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,246,178.8895184
+CUUR0000SEHA,01-07-2011,253.085,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,247,179.2386686
+CUUR0000SEHA,01-08-2011,254.003,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,248,179.8888102
+CUUR0000SEHA,01-09-2011,254.628,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,249,180.3314448
+CUUR0000SEHA,01-10-2011,255.651,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,250,181.055949
+CUUR0000SEHA,01-11-2011,256.367,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,251,181.5630312
+CUUR0000SEHA,01-12-2011,257.189,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,252,182.1451841
+CUUR0000SEHA,01-01-2012,257.714,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,253,182.5169972
+CUUR0000SEHA,01-02-2012,258.184,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,254,182.8498584
+CUUR0000SEHA,01-03-2012,258.569,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,255,183.1225212
+CUUR0000SEHA,01-04-2012,258.922,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,256,183.3725212
+CUUR0000SEHA,01-05-2012,259.231,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,257,183.5913598
+CUUR0000SEHA,01-06-2012,259.407,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,258,183.7160057
+CUUR0000SEHA,01-07-2012,260.107,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,259,184.2117564
+CUUR0000SEHA,01-08-2012,260.677,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,260,184.6154391
+CUUR0000SEHA,01-09-2012,261.421,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,261,185.1423513
+CUUR0000SEHA,01-10-2012,262.707,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,262,186.0531161
+CUUR0000SEHA,01-11-2012,263.365,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,263,186.5191218
+CUUR0000SEHA,01-12-2012,264.098,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,264,187.0382436
+CUUR0000SEHA,01-01-2013,264.7,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,265,187.4645892
+CUUR0000SEHA,01-02-2013,265.256,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,266,187.8583569
+CUUR0000SEHA,01-03-2013,265.821,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,267,188.2584986
+CUUR0000SEHA,01-04-2013,265.984,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,268,188.3739377
+CUUR0000SEHA,01-05-2013,266.559,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,269,188.7811615
+CUUR0000SEHA,01-06-2013,266.905,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,270,189.026204
+CUUR0000SEHA,01-07-2013,267.482,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,271,189.4348442
+CUUR0000SEHA,01-08-2013,268.505,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,272,190.1593484
+CUUR0000SEHA,01-09-2013,269.137,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,273,190.6069405
+CUUR0000SEHA,01-10-2013,269.96,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,274,191.1898017
+CUUR0000SEHA,01-11-2013,270.698,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,275,191.7124646
+CUUR0000SEHA,01-12-2013,271.688,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,276,192.4135977
+CUUR0000SEHA,01-01-2014,272.317,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,277,192.8590652
+CUUR0000SEHA,01-02-2014,272.733,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,278,193.1536827
+CUUR0000SEHA,01-03-2014,273.486,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,279,193.6869688
+CUUR0000SEHA,01-04-2014,274.1,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,280,194.121813
+CUUR0000SEHA,01-05-2014,274.71,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,281,194.5538244
+CUUR0000SEHA,01-06-2014,275.321,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,282,194.9865439
+CUUR0000SEHA,01-07-2014,276.248,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,283,195.6430595
+CUUR0000SEHA,01-08-2014,277.048,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,284,196.2096317
+CUUR0000SEHA,01-09-2014,277.998,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,285,196.8824363
+CUUR0000SEHA,01-10-2014,278.985,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,286,197.5814448
+CUUR0000SEHA,01-11-2014,280.123,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,287,198.3873938
+CUUR0000SEHA,01-12-2014,280.874,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,288,198.9192635
+CUUR0000SEHA,01-01-2015,281.572,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,289,199.4135977
+CUUR0000SEHA,01-02-2015,282.389,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,290,199.9922096
+CUUR0000SEHA,01-03-2015,283.13,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,291,200.5169972
+CUUR0000SEHA,01-04-2015,283.598,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,292,200.8484419
+CUUR0000SEHA,01-05-2015,284.245,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,293,201.3066572
+CUUR0000SEHA,01-06-2015,285.031,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,294,201.8633144
+CUUR0000SEHA,01-07-2015,286.09,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,295,202.6133144
+CUUR0000SEHA,01-08-2015,287.068,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,296,203.305949
+CUUR0000SEHA,01-09-2015,288.306,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,297,204.1827195
+CUUR0000SEHA,01-10-2015,289.428,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,298,204.9773371
+CUUR0000SEHA,01-11-2015,290.322,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,299,205.6104816
+CUUR0000SEHA,01-12-2015,291.204,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,300,206.2351275
+CUUR0000SEHA,01-01-2016,292.004,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,301,206.8016997
+CUUR0000SEHA,01-02-2016,292.777,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,302,207.3491501
+CUUR0000SEHA,01-03-2016,293.489,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,303,207.8533994
+CUUR0000SEHA,01-04-2016,294.175,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,304,208.3392351
+CUUR0000SEHA,01-05-2016,295.036,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,305,208.9490085
+CUUR0000SEHA,01-06-2016,295.902,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,306,209.5623229
+CUUR0000SEHA,01-07-2016,296.862,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,307,210.2422096
+CUUR0000SEHA,01-08-2016,297.916,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,308,210.9886686
+CUUR0000SEHA,01-09-2016,298.962,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,309,211.7294618
+CUUR0000SEHA,01-10-2016,300.4,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,310,212.7478754
+CUUR0000SEHA,01-11-2016,301.587,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,311,213.5885269
+CUUR0000SEHA,01-12-2016,302.735,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,312,214.4015581
+CUUR0000SEHA,01-01-2017,303.467,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,313,214.9199717
+CUUR0000SEHA,01-02-2017,304.211,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,314,215.4468839
+CUUR0000SEHA,01-03-2017,304.868,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,315,215.9121813
+CUUR0000SEHA,01-04-2017,305.477,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,316,216.3434844
+CUUR0000SEHA,01-05-2017,306.379,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,317,216.9822946
+CUUR0000SEHA,01-06-2017,307.314,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,318,217.6444759
+CUUR0000SEHA,01-07-2017,308.173,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,319,218.2528329
+CUUR0000SEHA,01-08-2017,309.479,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,320,219.177762
+CUUR0000SEHA,01-09-2017,310.268,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,321,219.7365439
+CUUR0000SEHA,01-10-2017,311.501,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,322,220.6097734
+CUUR0000SEHA,01-11-2017,312.67,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,323,221.4376771
+CUUR0000SEHA,01-12-2017,313.904,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,324,222.3116147
+CUUR0000SEHA,01-01-2018,314.788,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,325,222.9376771
+CUUR0000SEHA,01-02-2018,315.277,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,326,223.2839943
+CUUR0000SEHA,01-03-2018,315.883,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,327,223.7131728
+CUUR0000SEHA,01-04-2018,316.763,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,328,224.3364023
+CUUR0000SEHA,01-05-2018,317.49,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,329,224.8512748
+CUUR0000SEHA,01-06-2018,318.318,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,330,225.4376771
+CUUR0000SEHA,01-07-2018,319.351,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,331,226.1692635
+CUUR0000SEHA,01-08-2018,320.651,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,332,227.0899433
+CUUR0000SEHA,01-09-2018,321.533,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,333,227.7145892
+CUUR0000SEHA,01-10-2018,322.628,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,334,228.490085
+CUUR0000SEHA,01-11-2018,323.968,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,335,229.4390935
+CUUR0000SEHA,01-12-2018,324.815,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,336,230.0389518
+CUUR0000SEHA,01-01-2019,325.597,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,337,230.5927762
+CUUR0000SEHA,01-02-2019,326.351,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,338,231.1267705
+CUUR0000SEHA,01-03-2019,327.513,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,339,231.9497167
+CUUR0000SEHA,01-04-2019,328.678,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,340,232.7747875
+CUUR0000SEHA,01-05-2019,329.333,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,341,233.2386686
+CUUR0000SEHA,01-06-2019,330.648,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,342,234.1699717
+CUUR0000SEHA,01-07-2019,331.605,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,343,234.8477337
+CUUR0000SEHA,01-08-2019,332.638,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,344,235.5793201
+CUUR0000SEHA,01-09-2019,333.834,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,345,236.4263456
+CUUR0000SEHA,01-10-2019,334.68,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,346,237.0254958
+CUUR0000SEHA,01-11-2019,335.819,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,347,237.832153
+CUUR0000SEHA,01-12-2019,336.789,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,348,238.5191218
+CUUR0000SEHA,01-01-2020,337.825,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,349,239.2528329
+CUUR0000SEHA,01-02-2020,338.616,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,350,239.8130312
+CUUR0000SEHA,01-03-2020,339.519,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,351,240.4525496
+CUUR0000SEHA,01-04-2020,340.135,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,352,240.8888102
+CUUR0000SEHA,01-05-2020,340.811,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,353,241.3675637
+CUUR0000SEHA,01-06-2020,341.294,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,354,241.7096317
+CUUR0000SEHA,01-07-2020,341.95,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,355,242.174221
+CUUR0000SEHA,01-08-2020,342.444,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,356,242.5240793
+CUUR0000SEHA,01-09-2020,342.91,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,357,242.8541076
+CUUR0000SEHA,01-10-2020,343.615,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,358,243.3533994
+CUUR0000SEHA,01-11-2020,344.039,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,359,243.6536827
+CUUR0000SEHA,01-12-2020,344.455,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,360,243.9483003
+CUUR0000SEHA,01-01-2021,344.758,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,361,244.1628895
+CUUR0000SEHA,01-02-2021,345.242,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,362,244.5056657
+CUUR0000SEHA,01-03-2021,345.717,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,363,244.842068
+CUUR0000SEHA,01-04-2021,346.267,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,364,245.2315864
+CUUR0000SEHA,01-05-2021,347.016,cpi.rent,CPI-U Rent of primary residences,U.S. Bureau of Labor Statistics,365,245.7620397
+HPIPONM226S,01-01-1991,100,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),1,100
+HPIPONM226S,01-02-1991,100.46,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),2,100.46
+HPIPONM226S,01-03-1991,100.48,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),3,100.48
+HPIPONM226S,01-04-1991,100.31,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),4,100.31
+HPIPONM226S,01-05-1991,100.37,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),5,100.37
+HPIPONM226S,01-06-1991,100.52,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),6,100.52
+HPIPONM226S,01-07-1991,100.54,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),7,100.54
+HPIPONM226S,01-08-1991,100.38,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),8,100.38
+HPIPONM226S,01-09-1991,100.61,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),9,100.61
+HPIPONM226S,01-10-1991,100.92,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),10,100.92
+HPIPONM226S,01-11-1991,101.42,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),11,101.42
+HPIPONM226S,01-12-1991,101.89,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),12,101.89
+HPIPONM226S,01-01-1992,102.23,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),13,102.23
+HPIPONM226S,01-02-1992,102.97,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),14,102.97
+HPIPONM226S,01-03-1992,102.8,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),15,102.8
+HPIPONM226S,01-04-1992,102.55,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),16,102.55
+HPIPONM226S,01-05-1992,102.59,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),17,102.59
+HPIPONM226S,01-06-1992,102.53,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),18,102.53
+HPIPONM226S,01-07-1992,102.87,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),19,102.87
+HPIPONM226S,01-08-1992,103.33,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),20,103.33
+HPIPONM226S,01-09-1992,103.73,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),21,103.73
+HPIPONM226S,01-10-1992,104.03,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),22,104.03
+HPIPONM226S,01-11-1992,104.32,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),23,104.32
+HPIPONM226S,01-12-1992,104.23,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),24,104.23
+HPIPONM226S,01-01-1993,104.28,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),25,104.28
+HPIPONM226S,01-02-1993,104.08,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),26,104.08
+HPIPONM226S,01-03-1993,104.38,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),27,104.38
+HPIPONM226S,01-04-1993,105.04,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),28,105.04
+HPIPONM226S,01-05-1993,105.25,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),29,105.25
+HPIPONM226S,01-06-1993,105.65,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),30,105.65
+HPIPONM226S,01-07-1993,105.68,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),31,105.68
+HPIPONM226S,01-08-1993,106.08,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),32,106.08
+HPIPONM226S,01-09-1993,106.44,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),33,106.44
+HPIPONM226S,01-10-1993,106.69,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),34,106.69
+HPIPONM226S,01-11-1993,107.01,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),35,107.01
+HPIPONM226S,01-12-1993,107.54,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),36,107.54
+HPIPONM226S,01-01-1994,107.79,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),37,107.79
+HPIPONM226S,01-02-1994,108.03,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),38,108.03
+HPIPONM226S,01-03-1994,108.39,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),39,108.39
+HPIPONM226S,01-04-1994,108.72,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),40,108.72
+HPIPONM226S,01-05-1994,109.08,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),41,109.08
+HPIPONM226S,01-06-1994,109.28,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),42,109.28
+HPIPONM226S,01-07-1994,109.39,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),43,109.39
+HPIPONM226S,01-08-1994,109.62,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),44,109.62
+HPIPONM226S,01-09-1994,109.74,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),45,109.74
+HPIPONM226S,01-10-1994,110.01,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),46,110.01
+HPIPONM226S,01-11-1994,110.23,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),47,110.23
+HPIPONM226S,01-12-1994,110.26,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),48,110.26
+HPIPONM226S,01-01-1995,110.58,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),49,110.58
+HPIPONM226S,01-02-1995,111.14,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),50,111.14
+HPIPONM226S,01-03-1995,111.02,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),51,111.02
+HPIPONM226S,01-04-1995,111.25,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),52,111.25
+HPIPONM226S,01-05-1995,111.39,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),53,111.39
+HPIPONM226S,01-06-1995,111.79,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),54,111.79
+HPIPONM226S,01-07-1995,112.29,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),55,112.29
+HPIPONM226S,01-08-1995,112.6,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),56,112.6
+HPIPONM226S,01-09-1995,112.83,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),57,112.83
+HPIPONM226S,01-10-1995,112.88,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),58,112.88
+HPIPONM226S,01-11-1995,113.11,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),59,113.11
+HPIPONM226S,01-12-1995,113.6,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),60,113.6
+HPIPONM226S,01-01-1996,114.01,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),61,114.01
+HPIPONM226S,01-02-1996,114.16,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),62,114.16
+HPIPONM226S,01-03-1996,114.57,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),63,114.57
+HPIPONM226S,01-04-1996,114.86,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),64,114.86
+HPIPONM226S,01-05-1996,115.11,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),65,115.11
+HPIPONM226S,01-06-1996,115.23,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),66,115.23
+HPIPONM226S,01-07-1996,115.61,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),67,115.61
+HPIPONM226S,01-08-1996,115.63,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),68,115.63
+HPIPONM226S,01-09-1996,115.92,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),69,115.92
+HPIPONM226S,01-10-1996,116.02,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),70,116.02
+HPIPONM226S,01-11-1996,116.36,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),71,116.36
+HPIPONM226S,01-12-1996,116.72,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),72,116.72
+HPIPONM226S,01-01-1997,116.84,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),73,116.84
+HPIPONM226S,01-02-1997,117.15,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),74,117.15
+HPIPONM226S,01-03-1997,117.62,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),75,117.62
+HPIPONM226S,01-04-1997,117.83,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),76,117.83
+HPIPONM226S,01-05-1997,118.27,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),77,118.27
+HPIPONM226S,01-06-1997,118.33,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),78,118.33
+HPIPONM226S,01-07-1997,118.62,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),79,118.62
+HPIPONM226S,01-08-1997,119.07,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),80,119.07
+HPIPONM226S,01-09-1997,119.22,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),81,119.22
+HPIPONM226S,01-10-1997,119.84,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),82,119.84
+HPIPONM226S,01-11-1997,120.24,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),83,120.24
+HPIPONM226S,01-12-1997,120.63,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),84,120.63
+HPIPONM226S,01-01-1998,121.08,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),85,121.08
+HPIPONM226S,01-02-1998,121.94,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),86,121.94
+HPIPONM226S,01-03-1998,122.34,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),87,122.34
+HPIPONM226S,01-04-1998,122.9,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),88,122.9
+HPIPONM226S,01-05-1998,123.39,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),89,123.39
+HPIPONM226S,01-06-1998,124.18,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),90,124.18
+HPIPONM226S,01-07-1998,124.5,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),91,124.5
+HPIPONM226S,01-08-1998,125.01,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),92,125.01
+HPIPONM226S,01-09-1998,125.81,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),93,125.81
+HPIPONM226S,01-10-1998,126.35,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),94,126.35
+HPIPONM226S,01-11-1998,127.19,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),95,127.19
+HPIPONM226S,01-12-1998,127.76,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),96,127.76
+HPIPONM226S,01-01-1999,128.49,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),97,128.49
+HPIPONM226S,01-02-1999,129.01,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),98,129.01
+HPIPONM226S,01-03-1999,129.56,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),99,129.56
+HPIPONM226S,01-04-1999,130.22,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),100,130.22
+HPIPONM226S,01-05-1999,131.01,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),101,131.01
+HPIPONM226S,01-06-1999,131.6,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),102,131.6
+HPIPONM226S,01-07-1999,132.33,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),103,132.33
+HPIPONM226S,01-08-1999,133.14,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),104,133.14
+HPIPONM226S,01-09-1999,133.52,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),105,133.52
+HPIPONM226S,01-10-1999,134.33,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),106,134.33
+HPIPONM226S,01-11-1999,134.89,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),107,134.89
+HPIPONM226S,01-12-1999,135.56,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),108,135.56
+HPIPONM226S,01-01-2000,137.16,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),109,137.16
+HPIPONM226S,01-02-2000,136.96,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),110,136.96
+HPIPONM226S,01-03-2000,138.02,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),111,138.02
+HPIPONM226S,01-04-2000,138.97,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),112,138.97
+HPIPONM226S,01-05-2000,139.58,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),113,139.58
+HPIPONM226S,01-06-2000,140.5,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),114,140.5
+HPIPONM226S,01-07-2000,141.26,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),115,141.26
+HPIPONM226S,01-08-2000,141.81,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),116,141.81
+HPIPONM226S,01-09-2000,142.69,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),117,142.69
+HPIPONM226S,01-10-2000,143.45,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),118,143.45
+HPIPONM226S,01-11-2000,144.34,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),119,144.34
+HPIPONM226S,01-12-2000,145.21,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),120,145.21
+HPIPONM226S,01-01-2001,146.11,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),121,146.11
+HPIPONM226S,01-02-2001,147.12,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),122,147.12
+HPIPONM226S,01-03-2001,147.91,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),123,147.91
+HPIPONM226S,01-04-2001,148.78,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),124,148.78
+HPIPONM226S,01-05-2001,149.45,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),125,149.45
+HPIPONM226S,01-06-2001,150.13,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),126,150.13
+HPIPONM226S,01-07-2001,151.01,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),127,151.01
+HPIPONM226S,01-08-2001,151.72,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),128,151.72
+HPIPONM226S,01-09-2001,152.52,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),129,152.52
+HPIPONM226S,01-10-2001,153.44,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),130,153.44
+HPIPONM226S,01-11-2001,153.91,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),131,153.91
+HPIPONM226S,01-12-2001,154.91,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),132,154.91
+HPIPONM226S,01-01-2002,155.81,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),133,155.81
+HPIPONM226S,01-02-2002,156.72,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),134,156.72
+HPIPONM226S,01-03-2002,157.72,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),135,157.72
+HPIPONM226S,01-04-2002,158.54,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),136,158.54
+HPIPONM226S,01-05-2002,159.64,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),137,159.64
+HPIPONM226S,01-06-2002,160.62,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),138,160.62
+HPIPONM226S,01-07-2002,161.66,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),139,161.66
+HPIPONM226S,01-08-2002,162.68,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),140,162.68
+HPIPONM226S,01-09-2002,163.68,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),141,163.68
+HPIPONM226S,01-10-2002,164.83,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),142,164.83
+HPIPONM226S,01-11-2002,165.77,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),143,165.77
+HPIPONM226S,01-12-2002,166.97,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),144,166.97
+HPIPONM226S,01-01-2003,168.02,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),145,168.02
+HPIPONM226S,01-02-2003,169.05,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),146,169.05
+HPIPONM226S,01-03-2003,169.63,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),147,169.63
+HPIPONM226S,01-04-2003,170.65,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),148,170.65
+HPIPONM226S,01-05-2003,171.62,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),149,171.62
+HPIPONM226S,01-06-2003,172.4,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),150,172.4
+HPIPONM226S,01-07-2003,173.7,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),151,173.7
+HPIPONM226S,01-08-2003,174.96,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),152,174.96
+HPIPONM226S,01-09-2003,176.39,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),153,176.39
+HPIPONM226S,01-10-2003,177.44,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),154,177.44
+HPIPONM226S,01-11-2003,178.82,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),155,178.82
+HPIPONM226S,01-12-2003,180.32,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),156,180.32
+HPIPONM226S,01-01-2004,181.5,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),157,181.5
+HPIPONM226S,01-02-2004,182.85,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),158,182.85
+HPIPONM226S,01-03-2004,184.17,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),159,184.17
+HPIPONM226S,01-04-2004,185.71,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),160,185.71
+HPIPONM226S,01-05-2004,187.49,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),161,187.49
+HPIPONM226S,01-06-2004,189.38,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),162,189.38
+HPIPONM226S,01-07-2004,190.96,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),163,190.96
+HPIPONM226S,01-08-2004,192.34,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),164,192.34
+HPIPONM226S,01-09-2004,193.86,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),165,193.86
+HPIPONM226S,01-10-2004,195.33,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),166,195.33
+HPIPONM226S,01-11-2004,197.07,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),167,197.07
+HPIPONM226S,01-12-2004,198.8,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),168,198.8
+HPIPONM226S,01-01-2005,200.25,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),169,200.25
+HPIPONM226S,01-02-2005,201.64,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),170,201.64
+HPIPONM226S,01-03-2005,203.75,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),171,203.75
+HPIPONM226S,01-04-2005,205.53,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),172,205.53
+HPIPONM226S,01-05-2005,207.22,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),173,207.22
+HPIPONM226S,01-06-2005,209.02,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),174,209.02
+HPIPONM226S,01-07-2005,211.08,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),175,211.08
+HPIPONM226S,01-08-2005,212.61,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),176,212.61
+HPIPONM226S,01-09-2005,214.56,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),177,214.56
+HPIPONM226S,01-10-2005,215.75,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),178,215.75
+HPIPONM226S,01-11-2005,217.16,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),179,217.16
+HPIPONM226S,01-12-2005,218.49,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),180,218.49
+HPIPONM226S,01-01-2006,219.89,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),181,219.89
+HPIPONM226S,01-02-2006,220.3,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),182,220.3
+HPIPONM226S,01-03-2006,221.09,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),183,221.09
+HPIPONM226S,01-04-2006,221.54,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),184,221.54
+HPIPONM226S,01-05-2006,222.12,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),185,222.12
+HPIPONM226S,01-06-2006,222.13,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),186,222.13
+HPIPONM226S,01-07-2006,221.99,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),187,221.99
+HPIPONM226S,01-08-2006,222.63,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),188,222.63
+HPIPONM226S,01-09-2006,222.57,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),189,222.57
+HPIPONM226S,01-10-2006,222.81,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),190,222.81
+HPIPONM226S,01-11-2006,223.5,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),191,223.5
+HPIPONM226S,01-12-2006,223.58,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),192,223.58
+HPIPONM226S,01-01-2007,224.38,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),193,224.38
+HPIPONM226S,01-02-2007,224.4,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),194,224.4
+HPIPONM226S,01-03-2007,225.34,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),195,225.34
+HPIPONM226S,01-04-2007,225.36,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),196,225.36
+HPIPONM226S,01-05-2007,224.29,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),197,224.29
+HPIPONM226S,01-06-2007,223.44,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),198,223.44
+HPIPONM226S,01-07-2007,222.36,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),199,222.36
+HPIPONM226S,01-08-2007,221.31,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),200,221.31
+HPIPONM226S,01-09-2007,220.47,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),201,220.47
+HPIPONM226S,01-10-2007,218.64,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),202,218.64
+HPIPONM226S,01-11-2007,217.15,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),203,217.15
+HPIPONM226S,01-12-2007,216.03,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),204,216.03
+HPIPONM226S,01-01-2008,214.18,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),205,214.18
+HPIPONM226S,01-02-2008,212.87,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),206,212.87
+HPIPONM226S,01-03-2008,211.02,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),207,211.02
+HPIPONM226S,01-04-2008,208.71,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),208,208.71
+HPIPONM226S,01-05-2008,206.35,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),209,206.35
+HPIPONM226S,01-06-2008,205.07,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),210,205.07
+HPIPONM226S,01-07-2008,203.19,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),211,203.19
+HPIPONM226S,01-08-2008,201.13,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),212,201.13
+HPIPONM226S,01-09-2008,199.32,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),213,199.32
+HPIPONM226S,01-10-2008,197.68,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),214,197.68
+HPIPONM226S,01-11-2008,194.15,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),215,194.15
+HPIPONM226S,01-12-2008,193.6,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),216,193.6
+HPIPONM226S,01-01-2009,195.21,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),217,195.21
+HPIPONM226S,01-02-2009,195.56,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),218,195.56
+HPIPONM226S,01-03-2009,193.23,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),219,193.23
+HPIPONM226S,01-04-2009,191.94,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),220,191.94
+HPIPONM226S,01-05-2009,191.81,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),221,191.81
+HPIPONM226S,01-06-2009,191.71,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),222,191.71
+HPIPONM226S,01-07-2009,191.13,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),223,191.13
+HPIPONM226S,01-08-2009,190.86,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),224,190.86
+HPIPONM226S,01-09-2009,190.62,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),225,190.62
+HPIPONM226S,01-10-2009,190.99,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),226,190.99
+HPIPONM226S,01-11-2009,191.6,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),227,191.6
+HPIPONM226S,01-12-2009,189.73,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),228,189.73
+HPIPONM226S,01-01-2010,189.72,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),229,189.72
+HPIPONM226S,01-02-2010,189.03,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),230,189.03
+HPIPONM226S,01-03-2010,188.8,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),231,188.8
+HPIPONM226S,01-04-2010,189.01,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),232,189.01
+HPIPONM226S,01-05-2010,189.02,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),233,189.02
+HPIPONM226S,01-06-2010,187.09,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),234,187.09
+HPIPONM226S,01-07-2010,185.98,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),235,185.98
+HPIPONM226S,01-08-2010,185.79,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),236,185.79
+HPIPONM226S,01-09-2010,183.97,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),237,183.97
+HPIPONM226S,01-10-2010,184.28,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),238,184.28
+HPIPONM226S,01-11-2010,183.71,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),239,183.71
+HPIPONM226S,01-12-2010,182.33,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),240,182.33
+HPIPONM226S,01-01-2011,181.27,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),241,181.27
+HPIPONM226S,01-02-2011,179.66,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),242,179.66
+HPIPONM226S,01-03-2011,177.72,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),243,177.72
+HPIPONM226S,01-04-2011,178.09,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),244,178.09
+HPIPONM226S,01-05-2011,177.72,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),245,177.72
+HPIPONM226S,01-06-2011,178.27,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),246,178.27
+HPIPONM226S,01-07-2011,178.61,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),247,178.61
+HPIPONM226S,01-08-2011,178.1,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),248,178.1
+HPIPONM226S,01-09-2011,179.19,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),249,179.19
+HPIPONM226S,01-10-2011,178.17,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),250,178.17
+HPIPONM226S,01-11-2011,178.97,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),251,178.97
+HPIPONM226S,01-12-2011,179.56,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),252,179.56
+HPIPONM226S,01-01-2012,178.81,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),253,178.81
+HPIPONM226S,01-02-2012,179.29,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),254,179.29
+HPIPONM226S,01-03-2012,180.81,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),255,180.81
+HPIPONM226S,01-04-2012,181.74,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),256,181.74
+HPIPONM226S,01-05-2012,182.87,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),257,182.87
+HPIPONM226S,01-06-2012,183.61,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),258,183.61
+HPIPONM226S,01-07-2012,184.03,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),259,184.03
+HPIPONM226S,01-08-2012,185.21,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),260,185.21
+HPIPONM226S,01-09-2012,185.92,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),261,185.92
+HPIPONM226S,01-10-2012,186.87,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),262,186.87
+HPIPONM226S,01-11-2012,187.68,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),263,187.68
+HPIPONM226S,01-12-2012,188.65,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),264,188.65
+HPIPONM226S,01-01-2013,190.01,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),265,190.01
+HPIPONM226S,01-02-2013,191.25,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),266,191.25
+HPIPONM226S,01-03-2013,193.14,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),267,193.14
+HPIPONM226S,01-04-2013,194.16,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),268,194.16
+HPIPONM226S,01-05-2013,195.78,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),269,195.78
+HPIPONM226S,01-06-2013,196.89,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),270,196.89
+HPIPONM226S,01-07-2013,198.07,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),271,198.07
+HPIPONM226S,01-08-2013,198.72,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),272,198.72
+HPIPONM226S,01-09-2013,199.7,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),273,199.7
+HPIPONM226S,01-10-2013,200.23,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),274,200.23
+HPIPONM226S,01-11-2013,200.36,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),275,200.36
+HPIPONM226S,01-12-2013,201.52,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),276,201.52
+HPIPONM226S,01-01-2014,202.29,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),277,202.29
+HPIPONM226S,01-02-2014,203.18,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),278,203.18
+HPIPONM226S,01-03-2014,203.88,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),279,203.88
+HPIPONM226S,01-04-2014,204.47,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),280,204.47
+HPIPONM226S,01-05-2014,204.9,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),281,204.9
+HPIPONM226S,01-06-2014,206.03,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),282,206.03
+HPIPONM226S,01-07-2014,206.84,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),283,206.84
+HPIPONM226S,01-08-2014,207.62,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),284,207.62
+HPIPONM226S,01-09-2014,207.82,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),285,207.82
+HPIPONM226S,01-10-2014,209.04,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),286,209.04
+HPIPONM226S,01-11-2014,210,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),287,210
+HPIPONM226S,01-12-2014,211.41,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),288,211.41
+HPIPONM226S,01-01-2015,211.56,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),289,211.56
+HPIPONM226S,01-02-2015,213.28,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),290,213.28
+HPIPONM226S,01-03-2015,214,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),291,214
+HPIPONM226S,01-04-2015,214.64,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),292,214.64
+HPIPONM226S,01-05-2015,216.03,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),293,216.03
+HPIPONM226S,01-06-2015,216.87,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),294,216.87
+HPIPONM226S,01-07-2015,217.96,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),295,217.96
+HPIPONM226S,01-08-2015,218.33,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),296,218.33
+HPIPONM226S,01-09-2015,219.6,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),297,219.6
+HPIPONM226S,01-10-2015,220.71,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),298,220.71
+HPIPONM226S,01-11-2015,221.84,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),299,221.84
+HPIPONM226S,01-12-2015,222.74,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),300,222.74
+HPIPONM226S,01-01-2016,223.73,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),301,223.73
+HPIPONM226S,01-02-2016,224.07,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),302,224.07
+HPIPONM226S,01-03-2016,225.96,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),303,225.96
+HPIPONM226S,01-04-2016,226.83,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),304,226.83
+HPIPONM226S,01-05-2016,227.87,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),305,227.87
+HPIPONM226S,01-06-2016,229.13,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),306,229.13
+HPIPONM226S,01-07-2016,230.37,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),307,230.37
+HPIPONM226S,01-08-2016,231.39,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),308,231.39
+HPIPONM226S,01-09-2016,232.75,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),309,232.75
+HPIPONM226S,01-10-2016,233.92,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),310,233.92
+HPIPONM226S,01-11-2016,235.1,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),311,235.1
+HPIPONM226S,01-12-2016,236.48,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),312,236.48
+HPIPONM226S,01-01-2017,236.38,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),313,236.38
+HPIPONM226S,01-02-2017,237.86,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),314,237.86
+HPIPONM226S,01-03-2017,239.64,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),315,239.64
+HPIPONM226S,01-04-2017,241.42,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),316,241.42
+HPIPONM226S,01-05-2017,242.51,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),317,242.51
+HPIPONM226S,01-06-2017,243.51,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),318,243.51
+HPIPONM226S,01-07-2017,244.87,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),319,244.87
+HPIPONM226S,01-08-2017,246.56,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),320,246.56
+HPIPONM226S,01-09-2017,247.47,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),321,247.47
+HPIPONM226S,01-10-2017,248.64,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),322,248.64
+HPIPONM226S,01-11-2017,250.17,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),323,250.17
+HPIPONM226S,01-12-2017,251.26,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),324,251.26
+HPIPONM226S,01-01-2018,253.2,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),325,253.2
+HPIPONM226S,01-02-2018,255.2,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),326,255.2
+HPIPONM226S,01-03-2018,255.97,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),327,255.97
+HPIPONM226S,01-04-2018,256.72,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),328,256.72
+HPIPONM226S,01-05-2018,258.24,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),329,258.24
+HPIPONM226S,01-06-2018,259.41,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),330,259.41
+HPIPONM226S,01-07-2018,260.44,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),331,260.44
+HPIPONM226S,01-08-2018,261.74,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),332,261.74
+HPIPONM226S,01-09-2018,262.08,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),333,262.08
+HPIPONM226S,01-10-2018,263.06,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),334,263.06
+HPIPONM226S,01-11-2018,264.49,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),335,264.49
+HPIPONM226S,01-12-2018,265.35,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),336,265.35
+HPIPONM226S,01-01-2019,266.68,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),337,266.68
+HPIPONM226S,01-02-2019,267.82,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),338,267.82
+HPIPONM226S,01-03-2019,268.63,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),339,268.63
+HPIPONM226S,01-04-2019,270.21,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),340,270.21
+HPIPONM226S,01-05-2019,271.61,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),341,271.61
+HPIPONM226S,01-06-2019,272.44,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),342,272.44
+HPIPONM226S,01-07-2019,273.84,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),343,273.84
+HPIPONM226S,01-08-2019,274.2,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),344,274.2
+HPIPONM226S,01-09-2019,276.16,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),345,276.16
+HPIPONM226S,01-10-2019,277.37,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),346,277.37
+HPIPONM226S,01-11-2019,278.5,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),347,278.5
+HPIPONM226S,01-12-2019,280.97,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),348,280.97
+HPIPONM226S,01-01-2020,282.53,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),349,282.53
+HPIPONM226S,01-02-2020,284.9,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),350,284.9
+HPIPONM226S,01-03-2020,285.65,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),351,285.65
+HPIPONM226S,01-04-2020,286.29,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),352,286.29
+HPIPONM226S,01-05-2020,285.84,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),353,285.84
+HPIPONM226S,01-06-2020,289.09,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),354,289.09
+HPIPONM226S,01-07-2020,292.59,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),355,292.59
+HPIPONM226S,01-08-2020,297.24,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),356,297.24
+HPIPONM226S,01-09-2020,302.08,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),357,302.08
+HPIPONM226S,01-10-2020,306.39,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),358,306.39
+HPIPONM226S,01-11-2020,309.65,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),359,309.65
+HPIPONM226S,01-12-2020,313.38,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),360,313.38
+HPIPONM226S,01-01-2021,316.83,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),361,316.83
+HPIPONM226S,01-02-2021,320.5,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),362,320.5
+HPIPONM226S,01-03-2021,325.68,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),363,325.68
+HPIPONM226S,01-04-2021,331.64,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),364,331.64
+HPIPONM226S,01-05-2021,337.36,hpi,FHFA Purchase-only house price index,Federal Housing Finance Agency (FHFA),365,337.36
